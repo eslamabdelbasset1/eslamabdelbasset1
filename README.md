@@ -49,8 +49,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/EslamAbdelbasset"><img src="https://img.shields.io/badge/-EslamAbdelbasset-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:eslamelbazedy@gmail.com"><img src="https://img.shields.io/badge/-eslamelbazedy@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/eslam3basset/"><img src="https://img.shields.io/badge/-eslam3basset-0077B5?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/eslam3basset/"><img src="https://img.shields.io/badge/-eslam3basset-0077B5?style=flat-square&logo=instagram&logoColor=8a3ab9"/></a>
   
-<a href="https://www.instagram.com/eslam3basset/" rel="nofollow"><img src="https://camo.githubusercontent.com/3dd444de021a91db72016dd20d005d25cc607a21c1d5f1c8944ed1b4e154e43e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d776869746526636f6c6f723d386133616239" alt="" data-canonical-src="https://img.shields.io/badge/instagram-%230077B5.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;color=8a3ab9"></a>
  
 
