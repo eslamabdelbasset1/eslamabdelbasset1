@@ -39,7 +39,7 @@
 <p>  
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&show_icons=true&theme=algolia" />
-  <img height="180em" width="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=algolia&layout=compact&exclude_lang=java+r" /> 
+  <img height="200em" width="380em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=algolia&layout=compact&exclude_lang=java+r" /> 
 </a>
 </p>
 
