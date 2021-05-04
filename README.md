@@ -49,7 +49,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/EslamAbdelbasset"><img src="https://img.shields.io/badge/-EslamAbdelbasset-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:eslamelbazedy@gmail.com"><img src="https://img.shields.io/badge/-eslamelbazedy@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/eslam3basset/"><img src="https://img.shields.io/badge/-eslam3basset-0077B5?style=flat-square&logo=instagram&logoColor=8a3ab9"/></a>
+<a href="https://www.instagram.com/eslam3basset/"><img src="https://img.shields.io/badge/-eslam3basset-8a3ab9?style=flat-square&logo=instagram&logoColor=white"/></a>
   
  
 
