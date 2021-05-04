@@ -29,7 +29,9 @@
  
 
 ## My Stats
-
+<p>
+   <img align="center" height="180em" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+</p></br>
 
 <p>  
 <a href="https://github.com/AVS1508">
