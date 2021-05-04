@@ -29,19 +29,14 @@
  
 
 ## My Stats
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://camo.githubusercontent.com/e5ad47df377a1def9dc384079e4b5c6da7bab3e2bb8604abea5456a6d5d5646c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4f726368616e696f757353267468656d653d616c676f6c69612673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&amp;theme=algolia&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
-  <img height="180em" src="https://camo.githubusercontent.com/608c37aab7eeaa773a69275d62b8a49c7406b10094d904b1311bb37fd8d0798b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4f726368616e696f757353267468656d653d616c676f6c6961266c61796f75743d636f6d70616374266c616e67735f636f756e743d38" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&amp;theme=algolia&amp;layout=compact&amp;langs_count=8" style="max-width:100%;">
-</a></p>
 <p>
+   <img align="right" height="180em" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+</p>
+
+<p>  
 <a href="https://github.com/AVS1508">
- 
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&show_icons=true&theme=algolia" />
-   
-  <img align="right" height="180em" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=algolia&layout=compact&exclude_lang=java+r" /> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=algolia&layout=compact&exclude_lang=java+r"style="max-width:100%; /> 
 </a>
 </p>
 
