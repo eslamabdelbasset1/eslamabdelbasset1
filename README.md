@@ -1,4 +1,4 @@
-### Hi there 👋 <span class="border-wrap"><img height="20em" width="30em" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" alt="Hand Wave.gif"></span>
+### <span class="border-wrap">Hi there 👋 <img height="70em" width="50em" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" alt="Hand Wave.gif"></span>
 
 ## I'm Eslam.
 
