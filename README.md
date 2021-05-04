@@ -17,6 +17,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+  ![Typesript](https://camo.githubusercontent.com/b538b242088d15de2a9a2c020b09e4b2def69846fa7faea19fffde4db1312f7a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666c6174266c6f676f3d7265616374)
   ![C++](https://camo.githubusercontent.com/7d2d9f2c713c8bb81fb97575cb8fbaea86cca12f310356615f2f42c284256396/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3035313232413f7374796c653d666c6174266c6f676f3d43253242253242266c6f676f436f6c6f723d303035393943)
   
 - 🛢 &nbsp;
@@ -32,7 +33,7 @@
  
  
 
-## My Stats
+## <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My Stats
 
 <p>  
 <a href="https://github.com/AVS1508">
