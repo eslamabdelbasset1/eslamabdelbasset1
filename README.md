@@ -16,6 +16,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jQuery&logoColor=0769ad)
   ![Typesript](https://camo.githubusercontent.com/b538b242088d15de2a9a2c020b09e4b2def69846fa7faea19fffde4db1312f7a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666c6174266c6f676f3d7265616374)
+  ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass&logoColor=CD6799)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=dd1b16)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
