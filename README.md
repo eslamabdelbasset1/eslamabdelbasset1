@@ -50,6 +50,8 @@
     <img src="https://komarev.com/ghpvc/?username=eslamabdelbasset1">
 </a>
 <a href="https://github.com/eslamabdelbasset1?tab=followers"><img src="https://img.shields.io/github/followers/eslamabdelbasset1?label=Followers&style=social" alt="GitHub Badge"></a>
+</a>
+<a href="https://github.com/eslamabdelbasset1?tab=following"><img src="https://img.shields.io/github/following/eslamabdelbasset1?label=following&style=social" alt="GitHub Badge"></a>
 
 ##  🤝🏻 &nbsp;Connect with Me
 
