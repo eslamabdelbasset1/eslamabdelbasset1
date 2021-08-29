@@ -56,6 +56,8 @@
 
 
 ## ❤ Views
+
+![Profile views](https://gpvc.arturio.dev/eslamabdelbasset1)
 <a href="https://github.com/eslamabdelbasset1/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=eslamabdelbasset1">
 </a>
