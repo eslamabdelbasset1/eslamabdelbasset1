@@ -20,9 +20,9 @@
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=dd1b16)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+  ![C%23](https://img.shields.io/badge/-C%23-333333?style=flat&logo=cSharp&logoColor=9C70D8)
   
   ![C++](https://camo.githubusercontent.com/7d2d9f2c713c8bb81fb97575cb8fbaea86cca12f310356615f2f42c284256396/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3035313232413f7374796c653d666c6174266c6f676f3d43253242253242266c6f676f436f6c6f723d303035393943)
- ![C#]("https://img.shields.io/badge/-C%23-333333?style=flat&logo=cSharp&logoColor=9C70D8")
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
