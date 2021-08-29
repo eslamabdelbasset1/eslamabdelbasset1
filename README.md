@@ -20,8 +20,8 @@
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=dd1b16)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-  ![C%23](https://img.shields.io/badge/-C%23-333333?style=flat&logo=cSharp&logoColor=9C70D8)
   
+  ![C%23](https://img.shields.io/badge/-C%23-333333?style=flat&logo=cSharp&logoColor=9C70D8)
   ![C++](https://img.shields.io/badge/-c++-333333?style=flat&logo=c%2B%2B&logoColor=fff)
   
 - 🛢 &nbsp;
