@@ -51,7 +51,6 @@
 </p>
 
 ## Design
-`i'm Also Love Graphic Design xD`
 
 <img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
 
