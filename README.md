@@ -43,18 +43,13 @@
 
 <p>  
 <a href="https://github.com/eslamabdelbasset1">
-  <img height="180em" width="455em" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&show_icons=true&theme=algolia" />
-  <img height="180em" width="381em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=algolia&layout=compact&exclude_lang=java+r" /> 
-</a>
-</p>
-
-
-<a href="https://github.com/eslamabdelbasset1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&count_private=true&theme=react&show_icons=true" /> 
 </a>
 <a href="https://github.com/eslamabdelbasset1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=react&langs_count=16" />
 </a>
+</p>
+
 
 ## ❤ Views
 <a href="https://github.com/eslamabdelbasset1/github-profile-views-counter">
