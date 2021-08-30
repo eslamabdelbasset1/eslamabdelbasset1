@@ -69,13 +69,12 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/EslamAbdelbasset"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:eslamelbazedy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100009242350772"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/eslamabdelbasset1/"><img src="https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://api.whatsapp.com/send/?phone=201060838210"><img src="https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
-<a href="tel:+201060838210"><img src="https://img.shields.io/badge/-Mobile-333333?style=flat-square&logo=tel&logoColor=white"/></a>
- </p>
+  <a href="https://www.linkedin.com/in/EslamAbdelbasset"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:eslamelbazedy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100009242350772"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/eslamabdelbasset1/"><img src="https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://api.whatsapp.com/send/?phone=201060838210"><img src="https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
+</p>
  
  
 
