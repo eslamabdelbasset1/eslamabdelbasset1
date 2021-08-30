@@ -74,7 +74,7 @@
 <a href="https://www.facebook.com/profile.php?id=100009242350772"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/eslamabdelbasset1/"><img src="https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://api.whatsapp.com/send/?phone=201060838210"><img src="https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
-<a href="https://tel:+201060838210"><img src="https://img.shields.io/badge/-Mobile-333333?style=flat-square&logo=tel&logoColor=white"/></a>
+<a href="https://callto:+201060838210"><img src="https://img.shields.io/badge/-Mobile-333333?style=flat-square&logo=tel&logoColor=white"/></a>
  </p>
  
  
