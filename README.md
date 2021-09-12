@@ -60,7 +60,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=react&langs_count=16" />
   </a>
    <a style="text-decoration: none;" href="#">
-     <img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=eslamabdelbasset1&layout=compact&theme=react" />
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=eslamabdelbasset1&layout=compact&theme=react" />
     </a>
 </p>
 
