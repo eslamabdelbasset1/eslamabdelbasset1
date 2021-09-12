@@ -52,10 +52,10 @@
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50" width="220">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50&reversal=true" width="220">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50" width="180">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50&reversal=true" width="180">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50" width="180">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50&reversal=true" width="180">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50&reversal=true" width="220">
 </p>
 
 ## Design
