@@ -117,5 +117,3 @@ You are also welcome to visit my <a href="https://www.linkedin.com/in/eslamabdel
  
 
 
-##
-  ![Snake animation](https://github.com/camilafernanda/camilafernanda/blob/output/github-contribution-grid-snake.svg)
