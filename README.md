@@ -49,7 +49,7 @@
  </p>
 
  
- 
+<details open>
 ## <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My Stats
 
 <p>  
@@ -59,28 +59,12 @@
   <a href="https://github.com/eslamabdelbasset1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=react&langs_count=16" />
   </a>
-   <a style="text-decoration: none;" href="#">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=eslamabdelbasset1&layout=compact&theme=react" />
+    <a href="https://github.com/eslamabdelbasset1">
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eslamabdelbasset1&layout=compact&theme=react" />
     </a>
 </p>
-
-<details open>
-  <summary><strong>📈 Github Statistics</strong></summary>
-  
-  <br>
-        
-  <div> 
-     <a href="https://github.com/eslamabdelbasset1">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&count_private=true&theme=react&show_icons=true" /> 
-     </a>
-      <a href="https://github.com/eslamabdelbasset1">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=react&langs_count=16" />
-      </a> 
-  <a href="https://github.com/eslamabdelbasset1">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=eslamabdelbasset1&layout=compact&theme=react" />
-  </a>
-  </div>
 </details>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50" width="180">
