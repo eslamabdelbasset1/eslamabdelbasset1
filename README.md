@@ -82,7 +82,6 @@
   <a href="https://www.instagram.com/eslamabdelbasset1/"><img src="https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="https://api.whatsapp.com/send/?phone=201060838210"><img src="https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
 </p>
-
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
