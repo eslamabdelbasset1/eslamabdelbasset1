@@ -57,7 +57,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&count_private=true&theme=react&show_icons=true" /> 
   </a>
   <a href="https://github.com/eslamabdelbasset1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=react" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=react&langs_count=16"/>
   </a>
 </p>
 
@@ -73,7 +73,9 @@
 <details>
   <summary> <b><u>Most Used Languages</u></b> </summary><br>
   <img align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eslamabdelbasset1&theme=nord_bright">
-  <img align="centre right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eslamabdelbasset1&theme=nord_bright" />
+  <a href="https://github.com/eslamabdelbasset1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=react&langs_count=16"/>
+  </a>
 </details>
 
 
