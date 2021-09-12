@@ -44,7 +44,7 @@
 
 </p>
 <img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=795" width="150">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10&height=20&reversal=true" width="665">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10&height=20&reversal=true" width="150">
 <p>
 
 <p>  
