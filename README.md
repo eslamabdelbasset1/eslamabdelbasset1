@@ -82,6 +82,27 @@
   <a href="https://www.instagram.com/eslamabdelbasset1/"><img src="https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="https://api.whatsapp.com/send/?phone=201060838210"><img src="https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
 </p>
+
+<details align="center">
+  <summary><b>Check out my <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">portfolio</a> to learn more about me and what I do.
+You are also welcome to visit my <a href="https://www.linkedin.com/in/kauer3/" target="_blank" rel="noreferrer">LinkedIn</a> page!</b><br>☰ Click for QR Code</summary>
+
+<br>
+<table align="center">
+  <tr>
+    <th><b><a href="https://eslamabdelbasset.me" target="_blank" rel="noreferrer">Portfolio</a></b></th>
+    <th><b><a href="https://www.linkedin.com/in/eslamabdelbasset" target="_blank" rel="noreferrer">LinkedIn</a></b></th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://4qrcode.com/URL/qrcodes/b10056f0dfdbe662f08fb91831ff3da7.svg" alt="Portfolio QR Code" width="200">
+    </td>
+    <td>
+      <img src="https://4qrcode.com/URL/qrcodes/77aad73b2117f9ff966f3eb9927536d1.svg" alt="LinkedIn QR Code" width="200">
+    </td>
+  </tr>
+</table>
+</details>
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
