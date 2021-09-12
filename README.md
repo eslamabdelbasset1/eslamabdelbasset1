@@ -41,16 +41,18 @@
   
  
 
-:-- | :-: | :-: | --:
-|**Rocketseat**|08/2020|12/2020|160 h|
- 
+
   <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
  
-#### Extensão Universitária
-**The Fellowship of the Game - ICMC USP São Carlos**
-
-#### Sobre
-Perfil analítico paixão por desafios e aprender coisa novas, com uma boa base logica e uma enorme curva de aprendizagem com tecnologias, desejo por fazer algo grande e transforma o mundo com meu trabalho.
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Php Storm](https://img.shields.io/badge/-Php%20Storm-333333?style=flat&logo=PhpStorm&logoColor=007ACC)
 
  
  
