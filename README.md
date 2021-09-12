@@ -97,13 +97,11 @@
 
 
 ## ❤ Views
-<p align="center">
+<p>
 <a href="https://github.com/eslamabdelbasset1/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=eslamabdelbasset1">
 </a>
 <a href="https://github.com/eslamabdelbasset1?tab=followers"><img src="https://img.shields.io/github/followers/eslamabdelbasset1?label=Followers&style=social" alt="GitHub Badge"></a>
-</a>
-<a href="https://github.com/eslamabdelbasset1?tab=following"><img src="https://img.shields.io/github/followers/eslamabdelbasset1?label=following&style=social" alt="GitHub Badge"></a>
  </p>
 
 ##  🤝🏻 &nbsp;Connect with Me
