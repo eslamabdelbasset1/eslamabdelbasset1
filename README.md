@@ -48,8 +48,8 @@
    <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="400" align="right" alt="Routine">
  </p>
 
- 
 <br/>
+
 ## <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My Stats
 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eslamabdelbasset1&theme=monokai)
