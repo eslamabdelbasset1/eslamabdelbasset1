@@ -65,6 +65,20 @@
    <a href="https://github.com/eslamabdelbasset1">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eslamabdelbasset1&theme=vue" alt="leovincentseles"/>
   </a>
+  <p align="center">
+  <img src="icons/line.svg" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats" alt="GitHub Streak"> 
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=eslamabdelbasset1&theme=monokai-metallian&hide_border=true&background=DD272700" />
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="icons/line.svg" />
+</p>
 </details>
 
 <details>
