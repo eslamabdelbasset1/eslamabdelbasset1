@@ -54,15 +54,16 @@
 
 <p>  
   <a href="https://github.com/eslamabdelbasset1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&count_private=true&theme=react&show_icons=true" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&count_private=true&theme=react&show_icons=true" /> 
   </a>
   <a href="https://github.com/eslamabdelbasset1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=react&langs_count=16" />
   </a>
-</p>
- <a href="https://github.com/eslamabdelbasset1">
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eslamabdelbasset1&layout=compact&theme=react" />
+   <a href="https://github.com/eslamabdelbasset1">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=eslamabdelbasset1&layout=compact&theme=react" />
     </a>
+</p>
+
 
 
 <p align="center">
