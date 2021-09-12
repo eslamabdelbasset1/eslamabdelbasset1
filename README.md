@@ -41,8 +41,17 @@
   
  
 
-  
-  <img width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1"/>
+:-- | :-: | :-: | --:
+|**Rocketseat**|08/2020|12/2020|160 h|
+ 
+  <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+ 
+#### Extensão Universitária
+**The Fellowship of the Game - ICMC USP São Carlos**
+
+#### Sobre
+Perfil analítico paixão por desafios e aprender coisa novas, com uma boa base logica e uma enorme curva de aprendizagem com tecnologias, desejo por fazer algo grande e transforma o mundo com meu trabalho.
+
  
  
 
