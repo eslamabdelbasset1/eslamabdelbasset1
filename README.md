@@ -42,7 +42,7 @@
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="620">
    <img width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-  <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
+  <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="400" align="right" alt="Routine">
 </p>
   
 
