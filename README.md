@@ -42,6 +42,11 @@
 
 ## <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My Stats
 
+</p>
+<img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=795" width="150">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10&height=20&reversal=true" width="665">
+<p>
+
 <p>  
 <a href="https://github.com/eslamabdelbasset1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&count_private=true&theme=react&show_icons=true" /> 
