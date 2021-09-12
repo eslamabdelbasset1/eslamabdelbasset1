@@ -75,7 +75,7 @@
     <img width="280" align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eslamabdelbasset1&theme=nord_bright">
   </a>
    <a href="https://github.com/eslamabdelbasset1">
-   <img width="2880" align="centre center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eslamabdelbasset1&theme=nord_bright" />
+   <img width="280" align="centre center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eslamabdelbasset1&theme=nord_bright" />
   </a>
   <a href="https://github.com/eslamabdelbasset1">
     <img width="280" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=nord_bright&langs_count=16"/>
