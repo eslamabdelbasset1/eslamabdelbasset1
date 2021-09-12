@@ -59,12 +59,22 @@
   <a href="https://github.com/eslamabdelbasset1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=react&langs_count=16" />
   </a>
-   <a href="https://github.com/eslamabdelbasset1">
-     <img margin-bottom: "180px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eslamabdelbasset1&layout=compact&theme=react" />
-    </a>
-  
-  
 </p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eslamabdelbasset1&theme=monokai)
+<details>
+  <summary> <b><u>More Stats</u></b> </summary>
+  <br>
+  <img align="centre right" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&theme=vue&show_icons=true">
+  <img align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eslamabdelbasset1&theme=vue">
+  </a>
+</details>
+
+<details>
+  <summary> <b><u>Most Used Languages</u></b> </summary><br>
+  <img align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eslamabdelbasset1&theme=nord_bright">
+  <img align="centre right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eslamabdelbasset1&theme=nord_bright" />
+</details>
 
 
 
