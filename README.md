@@ -84,8 +84,8 @@
 </p>
 
 <details align="center">
-  <summary><b>Check out my <a href="https://kauer3.github.io/" target="_blank" rel="noreferrer">portfolio</a> to learn more about me and what I do.
-You are also welcome to visit my <a href="https://www.linkedin.com/in/kauer3/" target="_blank" rel="noreferrer">LinkedIn</a> page!</b><br>☰ Click for QR Code</summary>
+  <summary><b>Check out my <a href="https://eslamabdelbasset.me" target="_blank" rel="noreferrer">portfolio</a> to learn more about me and what I do.
+You are also welcome to visit my <a href="https://www.linkedin.com/in/eslamabdelbasset" target="_blank" rel="noreferrer">LinkedIn</a> page!</b><br>☰ Click for QR Code</summary>
 
 <br>
 <table align="center">
