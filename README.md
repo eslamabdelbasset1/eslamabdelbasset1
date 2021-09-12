@@ -72,10 +72,10 @@
 
 <details>
   <summary> <b><u>Most Used Languages</u></b> </summary><br>
-  <img width="300" align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eslamabdelbasset1&theme=nord_bright">
-   <img width="300" align="centre center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eslamabdelbasset1&theme=nord_bright" />
+  <img width="200" align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eslamabdelbasset1&theme=nord_bright">
+   <img width="200" align="centre center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eslamabdelbasset1&theme=nord_bright" />
   <a href="https://github.com/eslamabdelbasset1">
-    <img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=nord_bright&langs_count=16"/>
+    <img width="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=nord_bright&langs_count=16"/>
   </a>
 </details>
 
