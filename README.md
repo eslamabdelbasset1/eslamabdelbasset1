@@ -57,7 +57,7 @@
   <summary> <b><u>More Stats</u></b> </summary>
   <br>
   <a href="https://github.com/eslamabdelbasset1">
-    <img align="centre right" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&theme=vue&show_icons=true">
+    <img width="300" align="centre right" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&theme=vue&show_icons=true">
   </a>
   <a href="https://github.com/eslamabdelbasset1">
     <img align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eslamabdelbasset1&theme=vue">
