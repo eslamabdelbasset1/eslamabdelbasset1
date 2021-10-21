@@ -39,16 +39,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Php Storm](https://img.shields.io/badge/-Php%20Storm-333333?style=flat&logo=PhpStorm&logoColor=007ACC)
   
- <p align="center">
-   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="620">
- </p>
-  
- <p align="center">
-   <img width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-   <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="400" align="right" alt="Routine">
- </p>
 
-<br/>
+  
 
 ## <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My Stats
 
