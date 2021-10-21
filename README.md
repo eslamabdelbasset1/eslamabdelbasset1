@@ -72,13 +72,13 @@
 <details>
   <summary> <b><u>Most Used Languages</u></b> </summary><br>
    <a href="https://github.com/eslamabdelbasset1">
-    <img width="275" align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eslamabdelbasset1&theme=nord_bright">
+    <img width="270" align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eslamabdelbasset1&theme=nord_bright">
   </a>
    <a href="https://github.com/eslamabdelbasset1">
-   <img width="275" align="centre center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eslamabdelbasset1&theme=nord_bright" />
+   <img width="270" align="centre center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eslamabdelbasset1&theme=nord_bright" />
   </a>
   <a href="https://github.com/eslamabdelbasset1">
-    <img width="275" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=nord_bright&langs_count=16"/>
+    <img width="270" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=nord_bright&langs_count=16"/>
   </a>
 </details>
 
