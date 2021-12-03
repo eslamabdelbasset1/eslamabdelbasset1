@@ -3,7 +3,6 @@
 
 </p>
 <img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=795" width="50">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10&height=20&reversal=true" width="650">
 <p>
   
 ### 💻 &nbsp;About Me 
@@ -44,15 +43,11 @@
 
 ## <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My Stats
 
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eslamabdelbasset1&theme=monokai)
 <details>
-  <summary> <b><u>More Stats</u></b> </summary>
+   <b><u>More Stats</u></b>
   <br>
   <a href="https://github.com/eslamabdelbasset1">
     <img width="450" align="centre right" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&theme=vue&show_icons=true">
-  </a>
-  <a href="https://github.com/eslamabdelbasset1">
-    <img align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eslamabdelbasset1&theme=vue">
   </a>
   <p align="center">
     <a href="https://git.io/streak-stats" alt="GitHub Streak"> 
