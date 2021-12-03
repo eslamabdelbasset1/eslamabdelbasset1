@@ -50,34 +50,25 @@
   </p>
   
   <p>
-  <a href="https://github.com/eslamabdelbasset1">
-    <img width="450" align="centre right" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&theme=vue&show_icons=true">
-  </a>
-   <a href="https://github.com/eslamabdelbasset1">
-    <img width="260" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=nord_bright&langs_count=16"/>
-  </a>
+    <a href="https://github.com/eslamabdelbasset1">
+      <img width="450" align="centre right" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&theme=vue&show_icons=true">
+    </a>
+     <a href="https://github.com/eslamabdelbasset1">
+      <img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=nord_bright&langs_count=16"/>
+    </a>
   </p>
 
 <details>
   <summary> <b><u>Most Used Languages</u></b> </summary><br>
    <a href="https://github.com/eslamabdelbasset1">
-    <img width="250" align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eslamabdelbasset1&theme=nord_bright">
+    <img width="400" align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eslamabdelbasset1&theme=nord_bright">
   </a>
    <a href="https://github.com/eslamabdelbasset1">
-   <img width="250" align="centre center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eslamabdelbasset1&theme=nord_bright" />
+   <img width="400" align="centre center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eslamabdelbasset1&theme=nord_bright" />
   </a>
   
  
 </details>
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50" width="180">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50&reversal=true" width="180">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50" width="180">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10&height=50&reversal=true" width="180">
-</p>
 
 ## Design
 
