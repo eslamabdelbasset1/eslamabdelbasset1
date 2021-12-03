@@ -43,18 +43,20 @@
 
 ## <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My Stats
 
-<details>
-   <b><u>More Stats</u></b>
-  <br>
-  <a href="https://github.com/eslamabdelbasset1">
-    <img width="450" align="centre right" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&theme=vue&show_icons=true">
-  </a>
   <p align="center">
     <a href="https://git.io/streak-stats" alt="GitHub Streak"> 
       <img src="http://github-readme-streak-stats.herokuapp.com?user=eslamabdelbasset1&theme=monokai-metallian&hide_border=true&background=DD272700" />
     </a>
   </p>
-</details>
+  
+  <p>
+  <a href="https://github.com/eslamabdelbasset1">
+    <img width="450" align="centre right" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&theme=vue&show_icons=true">
+  </a>
+   <a href="https://github.com/eslamabdelbasset1">
+    <img width="260" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=nord_bright&langs_count=16"/>
+  </a>
+  </p>
 
 <details>
   <summary> <b><u>Most Used Languages</u></b> </summary><br>
@@ -64,9 +66,8 @@
    <a href="https://github.com/eslamabdelbasset1">
    <img width="250" align="centre center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eslamabdelbasset1&theme=nord_bright" />
   </a>
-  <a href="https://github.com/eslamabdelbasset1">
-    <img width="260" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=nord_bright&langs_count=16"/>
-  </a>
+  
+ 
 </details>
 
 
