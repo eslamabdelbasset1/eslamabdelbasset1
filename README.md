@@ -47,7 +47,15 @@
 ## Design
 <img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
   
-
+## ❤ Views
+<p>
+<a href="https://github.com/eslamabdelbasset1/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=eslamabdelbasset1">
+</a>
+  <a href="https://github.com/eslamabdelbasset1?tab=followers"><img src="https://img.shields.io/github/followers/eslamabdelbasset1?label=Followers&style=social" alt="GitHub    Badge"></a>
+ </p>
+ 
+ 
 ## <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My Stats
 
   <p align="center">
@@ -75,14 +83,6 @@
   </a> 
 </details>
 
-
-## ❤ Views
-<p>
-<a href="https://github.com/eslamabdelbasset1/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=eslamabdelbasset1">
-</a>
-<a href="https://github.com/eslamabdelbasset1?tab=followers"><img src="https://img.shields.io/github/followers/eslamabdelbasset1?label=Followers&style=social" alt="GitHub Badge"></a>
- </p>
 
 ##  🤝🏻 &nbsp;Connect with Me
 
