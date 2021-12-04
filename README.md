@@ -41,8 +41,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Php Storm](https://img.shields.io/badge/-Php%20Storm-333333?style=flat&logo=PhpStorm&logoColor=007ACC)
+  ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![PhpStorm](https://img.shields.io/badge/-Php%20Storm-333333?style=flat&logo=PhpStorm&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Xampp](https://img.shields.io/badge/-Xampp-333333?style=flat&logo=xampp)
   
