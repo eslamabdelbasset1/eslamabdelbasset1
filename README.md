@@ -24,7 +24,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
 ## Preferred Frameworks.
-- 🌐 &nbsp;
+- &nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jQuery&logoColor=0769ad)  
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass&logoColor=CD6799)
