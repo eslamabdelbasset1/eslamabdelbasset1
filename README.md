@@ -44,7 +44,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Php Storm](https://img.shields.io/badge/-Php%20Storm-333333?style=flat&logo=PhpStorm&logoColor=007ACC)
   
-
+## Design
+<img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
   
 
 ## <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My Stats
@@ -71,14 +72,8 @@
   </a>
    <a href="https://github.com/eslamabdelbasset1">
    <img width="400" align="centre center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eslamabdelbasset1&theme=nord_bright" />
-  </a>
-  
- 
+  </a> 
 </details>
-
-## Design
-
-<img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
 
 
 ## ❤ Views
