@@ -13,13 +13,11 @@
   
   ## Preferred Languages.
   - 🌐 &nbsp;
-  <div>
     ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
     ![Typesript](https://img.shields.io/badge/-typescript%20-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
     ![C%23](https://img.shields.io/badge/-C%23-333333?style=flat&logo=cSharp&logoColor=9C70D8)
     ![C++](https://img.shields.io/badge/-c++-333333?style=flat&logo=c%2B%2B&logoColor=fff)
-  </div>
 
 ### 🛠 &nbsp;Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> 
   <div>
