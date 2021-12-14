@@ -48,7 +48,8 @@
   ![Xampp](https://img.shields.io/badge/-Xampp-333333?style=flat&logo=xampp)
   
 ## Design
-![Adobe XD](https://img.shields.io/badge/-adobe%20xd%20-%23FF26BE.svg?style=flat&logo=adobe%20xd&logoColor=white)
+- &nbsp;
+  ![Adobe XD](https://img.shields.io/badge/-adobe%20xd%20-%23FF26BE.svg?style=flat&logo=adobe%20xd&logoColor=white)
   
 ## ❤ Views
 <p>
