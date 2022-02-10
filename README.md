@@ -121,6 +121,3 @@ You are also welcome to visit my <a href="https://www.linkedin.com/in/eslamabdel
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
- 
-
-
