@@ -29,6 +29,9 @@
 ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass&logoColor=CD6799)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=dd1b16)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Nestjs](https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
+![Material-ui](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
   
 ## Preferred Database.
 - 🛢 &nbsp;
@@ -41,6 +44,11 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![Cpanel](https://img.shields.io/badge/-cpanel-333333?style=flat&logo=cpanel)
   
+  ## CI
+    <div>
+      ![Githubactions](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)
+    </div>
+  
 - 🔧 &nbsp;
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PhpStorm](https://img.shields.io/badge/-PhpStorm-333333?style=flat&logo=PhpStorm&logoColor=007ACC)
@@ -49,6 +57,11 @@
   ![Nginx](https://img.shields.io/badge/-nginx-333333?style=flat&logo=nginx)
   ![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
 
+## Hosting
+  <div>
+    <img src="https://bluehost.com/resources/logos/bluehost.svg" alt="Bluehost Logo" title="Bluehost" align="right" height="20" />
+    ![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
+  </div>
   
 ## Design
 - &nbsp;
