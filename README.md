@@ -43,6 +43,7 @@
   ![PhpStorm](https://img.shields.io/badge/-PhpStorm-333333?style=flat&logo=PhpStorm&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Xampp](https://img.shields.io/badge/-Xampp-333333?style=flat&logo=xampp)
+  ![Xampp](https://img.shields.io/badge/-nginx-333333?style=flat&logo=nginx)
   
 ## Design
 - &nbsp;
