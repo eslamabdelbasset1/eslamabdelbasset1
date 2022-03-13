@@ -53,15 +53,13 @@
   ![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
 
 ## CI
-  <div>
-    ![Github-actions](https://img.shields.io/badge/-github%20actions%20-333333.svg?style=flat&logo=github%20actions&logoColor=007ACC)
-  </div>
+- &nbsp;
+   ![Github-actions](https://img.shields.io/badge/-github%20actions%20-333333.svg?style=flat&logo=github%20actions&logoColor=007ACC)
   
 ## Hosting
-  <div>
-    <img src="https://bluehost.com/resources/logos/bluehost.svg" alt="Bluehost Logo" title="Bluehost" height="15"/>
-    ![Heroku](https://img.shields.io/badge/-heroku%20-%23430098.svg?style=flat&logo=heroku&logoColor=white)
-  </div>
+- &nbsp;
+  <img src="https://bluehost.com/resources/logos/bluehost.svg" alt="Bluehost Logo" title="Bluehost" height="15"/>
+  ![Heroku](https://img.shields.io/badge/-heroku%20-%23430098.svg?style=flat&logo=heroku&logoColor=white)
   
 ## Design
 - &nbsp;
