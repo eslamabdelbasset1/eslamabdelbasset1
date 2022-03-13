@@ -8,7 +8,9 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
+- ❤  &nbsp; I'm a Full stack developer based in Egypt. I strive to build immersive and beautiful web applications through carefully crafted code.
 - 🎓 &nbsp; Studying Computer Science at Modern Academy For Science And Technology.
+  
 
 ## 🛠 &nbsp;Preferred Programming and Scripting Langauges <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> 
 - 🌐 &nbsp;
@@ -37,6 +39,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Cpanel](https://img.shields.io/badge/-cpanel-333333?style=flat&logo=cpanel)
   
 - 🔧 &nbsp;
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
