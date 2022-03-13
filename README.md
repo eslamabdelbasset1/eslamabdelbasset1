@@ -46,7 +46,7 @@
   
   ## CI
     <div>
-      ![Githubactions](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)
+      <img src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
     </div>
   
 - 🔧 &nbsp;
@@ -59,8 +59,8 @@
 
 ## Hosting
   <div>
-    <img src="https://bluehost.com/resources/logos/bluehost.svg" alt="Bluehost Logo" title="Bluehost" align="right" height="20" />
-    ![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)
+    <img src="https://bluehost.com/resources/logos/bluehost.svg" alt="Bluehost Logo" title="Bluehost" height="20" />
+    <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
   </div>
   
 ## Design
