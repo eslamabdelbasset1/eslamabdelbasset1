@@ -76,6 +76,12 @@
  </p>
  
  
+[![wakatime](https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social)](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
+[<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/eslamabdelbasset1?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social">](https://github.com/eslamabdelbasset1?tab=repositories&q=&type=&language=&sort=stargazers)
+[<img alt="GitHub followers" src="https://img.shields.io/github/followers/eslamabdelbasset1?&logoColor=red&style=social">](https://github.com/eslamabdelbasset1?tab=followers)
+[<img alt="GitHub forks" src="https://img.shields.io/github/forks/eslamabdelbasset1/TranslatorSelenium?logoColor=red&style=social">](https://github.com/eslamabdelbasset1/TranslatorSelenium/network/members)
+ 
+ 
 ## <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My Stats
 
   <p align="center">
