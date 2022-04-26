@@ -109,7 +109,7 @@
 
  <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/eslamabdelbasset1"><img alt="Eslam Abdelbasset's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eslamabdelbasset1&custom_title=Eslam%Abdelbasset%27s%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/eslamabdelbasset1"><img alt="Eslam Abdelbasset's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eslamabdelbasset1&custom_title=Eslam Abdelbasset Contribution Graph&theme=react-dark" /></a>
   <br/>
 
 ##  🤝🏻 &nbsp;Connect with Me
