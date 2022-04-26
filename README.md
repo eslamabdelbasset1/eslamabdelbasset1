@@ -74,6 +74,7 @@
   <a href="https://github.com/eslamabdelbasset1?tab=followers"><img src="https://img.shields.io/github/followers/eslamabdelbasset1?label=Followers&style=social" alt="GitHub    Badge"></a>
   <a href="https://github.com/eslamabdelbasset1/"><img src="https://img.shields.io/github/last-commit/Parply/Parply?style=flat-square?color=red&label=Last%20Updated%20"/></a>
  </p>
+ 
  [<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?label=OldCodersClub%27s%20Stars&logoColor=red&style=social" align="right">](https://github.com/OldCodersClub/faq)
  
 [![wakatime](https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social)](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
