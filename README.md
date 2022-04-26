@@ -93,7 +93,6 @@
       <img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=nord_bright&langs_count=16"/>
     </a>
   
-    <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
   
