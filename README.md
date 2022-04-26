@@ -10,7 +10,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - ❤  &nbsp; I'm a Full stack developer based in Egypt. I strive to build immersive and beautiful web applications through carefully crafted code.
 - 🎓 &nbsp; Studied Computer Science at Modern Academy For Science And Technology.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME].(https://drive.google.com/file/d/1Jy4NQ9qZNIV6LDVwoGSl81xwm-zzURdo/view?ths=true).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1Jy4NQ9qZNIV6LDVwoGSl81xwm-zzURdo/view?ths=true).
 - :nerd_face: Always `learning new things`
   
 
