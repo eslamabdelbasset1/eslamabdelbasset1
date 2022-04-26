@@ -1,5 +1,5 @@
-### <p><a target="_blank" rel="noopener noreferrer" href="/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif"><img align="center" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40"></a></p>
-<h2 align="center"><a class="anchor" aria-hidden="true"></path></svg></a>Hey there! I'm Eslam <g-emoji class="g-emoji" alias="man_technologist" fallback src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji></h2>
+### <p><a target="_blank" rel="noopener noreferrer" href="/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif"><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40" align="left"></a></p>
+<h2><a class="anchor" aria-hidden="true"></path></svg></a>Hey there! I'm Eslam <g-emoji class="g-emoji" alias="man_technologist" fallback src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji></h2>
 
 </p>
 <img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=795" width="50">
