@@ -60,7 +60,6 @@
   
 ## Hosting
 - &nbsp;
-  <img src="https://bluehost.com/resources/logos/bluehost.svg" alt="Bluehost Logo" title="Bluehost" height="15"/>
   ![Heroku](https://img.shields.io/badge/-heroku%20-%23430098.svg?style=flat&logo=heroku&logoColor=white)
   
 ## Design
