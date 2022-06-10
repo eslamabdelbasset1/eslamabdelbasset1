@@ -115,8 +115,12 @@
 <p align="center"> <a href="https://github.com/eslamabdelbasset1/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eslamabdelbasset1&layout=compact&theme=algolia" alt="Eslam Abdelbasset" /></a> </p>
 </details>
 
+ <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/eslamabdelbasset1/github-readme-activity-graph"><img alt=" Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eslamabdelbasset1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <br/>
 
-##  🤝🏻 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp; Connect with Me
+##  🤝🏻 width="30px"> &nbsp; Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/EslamAbdelbasset"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
