@@ -68,6 +68,25 @@
   ![Adobe XD](https://img.shields.io/badge/-adobe%20xd%20-%23FF26BE.svg?style=flat&logo=adobe%20xd&logoColor=white)
   
 ## ❤ Views
+  <p align="left">
+  <a href="https://leetcode.com/eslamabdelbasset1/">
+    <img src="https://cp-logo.vercel.app/leetcode/eslamabdelbasset1" alt="Leet code rating" />
+  </a>
+  <a href="https://codeforces.com/profile/eslamabdelbasset1.me">
+    <img src="https://raw.githubusercontent.com/eslamabdelbasset1/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+  </a>
+  <a href="https://stackoverflow.com/users/5921662/sudipto">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/eslamabdelbasset1?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/eslamabdelbasset1?color=green&logo=github">
+  </a>
+  <a href="https://github.com/eslamabdelbasset1/">
+    <img src="https://komarev.com/ghpvc/?username=eslamabdelbasset1" alt="visitors" />
+  </a>
+
+</p>
+  
 <p>
 <a href="https://github.com/eslamabdelbasset1/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=eslamabdelbasset1">
