@@ -95,23 +95,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-<b>&#128200; Competitive Programming</b>
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/eslamabdelbasset1?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/eslamabdelbasset1/cf-stats/main/output/light_card.svg" />
-</p>
-
-#### Recent Activity
-
-<p><b> &#9749; Latest Medium Blogs</b></p>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eslamabdelbasset1/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eslamabdelbasset1/0" alt="Latest medium article">
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eslamabdelbasset1/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eslamabdelbasset1/1" alt="Latest medium article"> </a>
-
-
-
-
 
 
   <p align="center">
