@@ -10,6 +10,8 @@
 - 🌱 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - ❤  &nbsp; I'm a Full stack developer based in Egypt. I strive to build immersive and beautiful web applications through carefully crafted code.
 - 🎓 &nbsp; Studied Computer Science at Modern Academy For Science And Technology.
+- 🌱 Learning all about **Full stack development**
+- 💬 Ping me about **mySql**, **Laravel**, **Docker**, **RestAPIs**
 - :thinking: My Portfolio: `to know everything about me` , this is [MY PORTFOLIO](https://eslamabdelbasset.software).
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1Jy4NQ9qZNIV6LDVwoGSl81xwm-zzURdo/view?ths=true).
 - :nerd_face: Always `learning new things`
@@ -68,24 +70,7 @@
   ![Adobe XD](https://img.shields.io/badge/-adobe%20xd%20-%23FF26BE.svg?style=flat&logo=adobe%20xd&logoColor=white)
   
 ## ❤ Views
-  <p align="left">
-  <a href="https://leetcode.com/eslamabdelbasset1/">
-    <img src="https://cp-logo.vercel.app/leetcode/eslamabdelbasset1" alt="Leet code rating" />
-  </a>
-  <a href="https://codeforces.com/profile/eslamabdelbasset1.me">
-    <img src="https://raw.githubusercontent.com/eslamabdelbasset1/cf-stats/main/output/rating.svg" alt="Leet code rating" />
-  </a>
-  <a href="https://stackoverflow.com/users/5921662/sudipto">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://github.com/eslamabdelbasset1?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/eslamabdelbasset1?color=green&logo=github">
-  </a>
-  <a href="https://github.com/eslamabdelbasset1/">
-    <img src="https://komarev.com/ghpvc/?username=eslamabdelbasset1" alt="visitors" />
-  </a>
-
-</p>
+ 
   
 <p>
 <a href="https://github.com/eslamabdelbasset1/github-profile-views-counter">
@@ -102,7 +87,32 @@
 
  
  
-## <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My Stats
+## <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> Development Stuffs
+
+<b>⚡ Github Stats</b>
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/eslamabdelbasset1?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/eslamabdelbasset1/cf-stats/main/output/light_card.svg" />
+</p>
+
+#### Recent Activity
+
+<p><b> &#9749; Latest Medium Blogs</b></p>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eslamabdelbasset1/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eslamabdelbasset1/0" alt="Latest medium article">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eslamabdelbasset1/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eslamabdelbasset1/1" alt="Latest medium article"> </a>
+
+
+
+
+
 
   <p align="center">
     <a href="https://git.io/streak-stats" alt="GitHub Streak"> 
