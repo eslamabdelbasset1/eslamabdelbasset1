@@ -89,31 +89,18 @@
  
 ## <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> Development Stuffs
 
-<b>⚡ Github Stats</b>
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-
-
-
   <p align="center">
     <a href="https://git.io/streak-stats" alt="GitHub Streak"> 
       <img src="http://github-readme-streak-stats.herokuapp.com?user=eslamabdelbasset1&theme=monokai-metallian&hide_border=true&background=DD272700" />
     </a>
   </p>
   
-  <p>
-    <a href="https://github.com/eslamabdelbasset1">
-      <img width="450" align="centre right" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&theme=vue&show_icons=true">
-    </a>
-     <a href="https://github.com/eslamabdelbasset1">
-      <img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=nord_bright&langs_count=16"/>
-    </a>
-  
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>⚡ Github Stats</b>
+  <p float="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
   </p>
-  
+    
 
 <details>
   <summary> <b><u>Most Used Languages</u></b> </summary><br>
