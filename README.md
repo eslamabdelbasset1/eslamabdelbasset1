@@ -123,7 +123,7 @@
 ##  🤝🏻 &nbsp; Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/EslamAbdelbasset"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/eslamabdelbasset"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:eslamabdelbasset1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.facebook.com/eslam3bdelbasset"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/eslamabdelbasset1/"><img src="https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=instagram&logoColor=white"/></a>
