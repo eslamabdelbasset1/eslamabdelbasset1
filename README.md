@@ -100,20 +100,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
   </p>
-    
-
-<details>
-  <summary> <b><u>Most Used Languages</u></b> </summary><br>
-   <a href="https://github.com/eslamabdelbasset1">
-    <img width="400" align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eslamabdelbasset1&theme=nord_bright">
-  </a>
-   <a href="https://github.com/eslamabdelbasset1">
-   <img width="400" align="centre center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eslamabdelbasset1&theme=nord_bright" />
-  </a> 
-  <br/>
-  <br/>
-<p align="center"> <a href="https://github.com/eslamabdelbasset1/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eslamabdelbasset1&layout=compact&theme=algolia" alt="Eslam Abdelbasset" /></a> </p>
-</details>
+  
 
 ##  🤝🏻 &nbsp; Connect with Me
 
