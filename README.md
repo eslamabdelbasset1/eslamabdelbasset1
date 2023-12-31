@@ -99,10 +99,10 @@
   
   <b>⚡ Github Stats</b>
   <a href="https://github.com/eslamabdelbasset1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&count_private=true&theme=react&show_icons=true" /> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&count_private=true&theme=react&show_icons=true" /> 
   </a>
   <a href="https://github.com/eslamabdelbasset1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=react&langs_count=16&hide=css,html,scss,blade" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=react&langs_count=16&hide=css,html,scss,blade" />
   </a>
   
 
