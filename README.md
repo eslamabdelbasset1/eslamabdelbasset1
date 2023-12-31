@@ -41,7 +41,7 @@
 ## Preferred Database.
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Sqlite](https://img.shields.io/badge/-sqlite-2307405e?style=flat&logo=sqlite)
+  ![Sqlite](https://img.shields.io/badge/-sqlite-333333?style=flat&logo=sqlite)
   
 ## Preferred Tools.
 - ⚙️ &nbsp;
