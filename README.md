@@ -99,7 +99,7 @@
   
   <b>⚡ Github Stats</b>
    <a href="https://github.com/eslamabdelbasset1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&count_private=true&theme=react&show_icons=true" /> 
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&count_private=true&theme=react&show_icons=true" /> 
     </a>
    <p float="left">
     <a href="https://github.com/eslamabdelbasset1">
