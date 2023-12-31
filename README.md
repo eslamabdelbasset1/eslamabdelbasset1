@@ -41,6 +41,7 @@
 ## Preferred Database.
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Sqlite](https://img.shields.io/badge/-sqlite-2307405e?style=flat&logo=sqlite)
   
 ## Preferred Tools.
 - ⚙️ &nbsp;
@@ -64,6 +65,7 @@
 ## Hosting
 - &nbsp;
   ![Heroku](https://img.shields.io/badge/-heroku%20-%23430098.svg?style=flat&logo=heroku&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/-vercel%20-%23000000.svg?style=flat&logo=vercel&logoColor=white)
   
 ## Design
 - &nbsp;
@@ -96,10 +98,12 @@
   </p>
   
   <b>⚡ Github Stats</b>
-  <p float="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-  </p>
+  <a href="https://github.com/eslamabdelbasset1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&count_private=true&theme=react&show_icons=true" /> 
+  </a>
+  <a href="https://github.com/eslamabdelbasset1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=react&langs_count=16&hide=css,html,scss,blade" />
+  </a>
   
 
 ##  🤝🏻 &nbsp; Connect with Me
