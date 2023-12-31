@@ -72,8 +72,6 @@
   ![Adobe XD](https://img.shields.io/badge/-adobe%20xd%20-%23FF26BE.svg?style=flat&logo=adobe%20xd&logoColor=white)
   
 ## ❤ Views
- 
-  
 <p>
 <a href="https://github.com/eslamabdelbasset1/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=eslamabdelbasset1">
