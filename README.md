@@ -8,7 +8,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🌱 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- ❤  &nbsp; I'm a Full stack developer based in Egypt. I strive to build immersive and beautiful web applications through carefully crafted code.
+- ❤  &nbsp; I'm a Back-end Developer | PHP & Laravel. I strive to build immersive and beautiful web applications through carefully crafted code.
 - 🎓 &nbsp; Studied Computer Science at Modern Academy For Science And Technology.
 - 🌱 Learning all about **Full stack development**
 - 💬 Ping me about **mySql**, **Laravel**, **Docker**, **RestAPIs**
