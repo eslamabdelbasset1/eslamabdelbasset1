@@ -2,8 +2,8 @@
  <tr>
     <td>
       <br>
-     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Eslam+Abdelbasset;"/>
-     <img width="150" align="center" src="https://visitcount.itsvg.in/api?id=eslamabdelbasset1&icon=10&color=13" alt="eslamabdelbasset1"/>
+     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Eslam+Abdelbasset;"/>
+     <img width="300" align="center" src="https://visitcount.itsvg.in/api?id=eslamabdelbasset1&icon=10&color=13" alt="eslamabdelbasset1"/>
       <br>
       <img width="350" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=eslamabdelbasset1&data=followers,repositories,stars,commits&theme=viridescent"/>
  </tr>  
