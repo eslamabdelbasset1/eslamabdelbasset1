@@ -94,6 +94,13 @@
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time
 
+<p align="center" dir="auto">
+    <a href="https://github.com/eslamabdelbasset1">
+          <img width="60%" src="https://camo.githubusercontent.com/265d4938847cc2de543a67db715072dfdeb0ea56fcba1e55b0d3153b8dc688e5/68747470733a2f2f6769746875622d726561646d652d73746174732d74617570652d74776f2e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d61686d656452616f756626686964655f7469746c653d7472756526686964655f626f726465723d74727565266c616e67735f636f756e743d352662675f636f6c6f723d303030303030303026746578745f636f6c6f723d373737" data-canonical-src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=eslamabdelbasset1&amp;hide_title=true&amp;hide_border=true&amp;langs_count=5&amp;bg_color=00000000&amp;text_color=777" style="max-width: 100%;">
+    <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" style="max-width: 100%;">
+  </a>
+</p>
+
 
 
 <br>
