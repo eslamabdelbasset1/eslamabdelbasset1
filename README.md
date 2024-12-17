@@ -1,3 +1,4 @@
+### <p><a target="_blank" rel="noopener noreferrer" href="/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif"><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40" align="left"></a></p>
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 <table border="0">
  <tr>
@@ -11,16 +12,6 @@
 </table>
 
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION :</b></h2>
-
-
-
-
-
-
-
-### <p><a target="_blank" rel="noopener noreferrer" href="/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif"><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40" align="left"></a></p>
-<h2><a class="anchor" aria-hidden="true"></path></svg></a>Hey there! I'm Eslam Abdelbasset <g-emoji class="g-emoji" alias="man_technologist" fallback src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji></h2>
-
 </p>
 <img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=795" width="50">
 <p>
@@ -98,6 +89,27 @@
   <a href="https://github.com/eslamabdelbasset1/"><img src="https://img.shields.io/github/last-commit/Parply/Parply?style=flat-square?color=red&label=Last%20Updated%20"/></a>
  </p>
  
+
+
+
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>Spent My Time
+
+<p align="center">
+    <a href="https://github.com/eslamabdelbasset1">
+          <img width="60%" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=eslamabdelbasset1&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
+    <img width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+  </a>
+</p>
+
+<br>
+<p align="center"><a href="https://github.com/avinal/Profile-Readme-WakaTime"><img src="https://github.com/eslamabdelbasset1
+/eslamabdelbasset1
+/blob/main/images/stat.svg" alt="eslamabdelbasset1
+ WakaTime Activity" align=center/></a></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+
+
  
 ## <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> Development Stuffs
 
