@@ -97,7 +97,7 @@
 <p align="center">
  <a href="https://github.com/eslamabdelbasset1">
     <img width="54%" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" />
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" />
  </a>
 </p>
 
