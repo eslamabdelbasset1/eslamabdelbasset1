@@ -101,29 +101,25 @@
  </a>
 </p>
 
+### 📊 GitHub States
+
+<p align="center">
+<a href="https://github.com/eslamabdelbasset1">
+ <img width="35%" src="https://github-contributor-stats.vercel.app/api?username=eslamabdelbasset1&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+ <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=eslamabdelbasset1&theme=dark&hide_border=false" />
+ </a>
+</p>
+<p align="center">
+<a href="https://github.com/eslamabdelbasset1">
+ <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eslamabdelbasset1&theme=dark" />
+ <img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=eslamabdelbasset1&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
+  </a>
+</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 
 
-
-
- 
-## <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> Development Stuffs
-
-  <p align="center">
-    <a href="https://git.io/streak-stats" alt="GitHub Streak"> 
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=eslamabdelbasset1&theme=monokai-metallian&hide_border=true&background=DD272700" />
-    </a>
-  </p>
-  
-  <b>⚡ Github Stats</b>
-   <p float="left">
-      <a href="https://github.com/eslamabdelbasset1">
-    <img src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&count_private=true&theme=react&show_icons=true" /> 
-    </a>
-    <a href="https://github.com/eslamabdelbasset1">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=react&langs_count=8&hide=css,html,scss,blade" />
-    </a>
-    </p>
 
 ##  🤝🏻 &nbsp; Connect with Me
 
