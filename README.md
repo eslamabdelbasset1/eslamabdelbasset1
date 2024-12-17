@@ -1,4 +1,4 @@
-<img width=100% title="Eslam Abdelbasset" alt="Eslam Abdelbasset" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Eslam-🔰-Abdelbasset&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+<img width=100% title="Eslam Abdelbasset" alt="Eslam Abdelbasset" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Eslam Abdelbasset&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
 <table border="0">
  <tr>
@@ -8,9 +8,6 @@
      <img width="150" align="center" src="https://visitcount.itsvg.in/api?id=eslamabdelbasset1&icon=10&color=13" alt="eslamabdelbasset1"/>
       <br>
       <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=eslamabdelbasset1&data=followers,repositories,stars,commits&theme=viridescent"/>
-    <td>
-      <img alt="gif" src="./assets/images/demon-sleyar.gif">
-   </td>  
  </tr>  
 </table>
 
