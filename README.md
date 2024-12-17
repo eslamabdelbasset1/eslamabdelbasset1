@@ -104,11 +104,8 @@
 ### 📊 GitHub States
 
 <p align="center">
-<a href="https://github.com/eslamabdelbasset1">
- <img width="35%" src="https://github-contributor-stats.vercel.app/api?username=eslamabdelbasset1&limit=5&theme=dark&combine_all_yearly_contributions=true" />
- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=eslamabdelbasset1&theme=dark&hide_border=false" />
- </a>
-</p>
+<a href="https://github.com/eslamabdelbasset1"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=eslamabdelbasset1&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=eslamabdelbasset1&theme=dark&hide_border=false" />
+ </a></p>
 <p align="center">
 <a href="https://github.com/eslamabdelbasset1">
  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eslamabdelbasset1&theme=dark" />
