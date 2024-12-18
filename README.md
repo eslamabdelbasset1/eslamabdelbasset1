@@ -16,7 +16,6 @@
 <p>
   
 ### 💻 &nbsp;About Me 
-
 - 🌱 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - ❤  &nbsp; I'm a Back-end Developer | PHP & Laravel. I strive to build immersive and beautiful web applications through carefully crafted code.
 - 🎓 &nbsp; Studied Computer Science at Modern Academy For Science And Technology.
@@ -113,9 +112,6 @@
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-
-
-
 
 ##  🤝🏻 &nbsp; Connect with Me
 
