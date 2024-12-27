@@ -24,8 +24,7 @@
 - :thinking: My Portfolio: `to know everything about me` , this is [MY PORTFOLIO](https://eslamabdelbasset.netlify.app).
 - :nerd_face: Always `learning new things`
   
-
-## 🛠 &nbsp;Preferred Programming and Scripting Langauges
+## 🛠 &nbsp;Preferred Programming and Scripting Languages
 - 🌐 &nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
