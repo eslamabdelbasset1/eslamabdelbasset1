@@ -9,7 +9,6 @@
       <img width="500" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=eslamabdelbasset1&data=followers,repositories,stars,commits&theme=viridescent"/>
  </tr>  
 </table>
-
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION</b></h2>
 </p>
 <img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=795" width="50">
@@ -98,7 +97,6 @@
 </p>
 
 ### 📊 GitHub States
-
 <p align="center">
 <a href="https://github.com/eslamabdelbasset1"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=eslamabdelbasset1&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=eslamabdelbasset1&theme=dark&hide_border=false" />
  </a></p>
