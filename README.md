@@ -3,10 +3,12 @@
  <tr>
     <td>
       <br>
-     <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Eslam+Abdelbasset;"/>
-     <img width="150" align="center" src="https://visitcount.itsvg.in/api?id=eslamabdelbasset1&icon=10&color=13" alt="eslamabdelbasset1"/>
-     <br>
-     <img width="500" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=eslamabdelbasset1&data=followers,repositories,stars,commits&theme=viridescent"/>
+       <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Eslam+Abdelbasset;"/>
+       <img width="150" align="center" src="https://visitcount.itsvg.in/api?id=eslamabdelbasset1&icon=10&color=13" alt="eslamabdelbasset1"/>
+       <br>
+       <img width="500" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=eslamabdelbasset1&data=followers,repositories,stars,commits&theme=viridescent"/>
+      </p>
+    </td>
  </tr>  
 </table>
 <h2 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">MY INFORMATION</b></h2>
@@ -15,7 +17,7 @@
 <p>
   
 ### 💻 &nbsp;About Me 
-- 🌱 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
+- 🌱 &nbsp; Exploring new technologies and developing software solutions to our world's tech problems.
 - ❤  &nbsp; I'm a Back-end Developer | PHP & Laravel. I strive to build immersive and beautiful web applications through carefully crafted code.
 - 🎓 &nbsp; Studied Computer Science at Modern Academy For Science And Technology.
 - 🌱 Learning all about **Full stack development**
