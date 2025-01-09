@@ -5,6 +5,7 @@
       <br>
       <p align="center">
        <img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Eslam+Abdelbasset;"/>
+              <img width="500" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=eslamabdelbasset1&data=followers,repositories,stars,commits&theme=viridescent"/>
        <br>
       </p>
     </td>
