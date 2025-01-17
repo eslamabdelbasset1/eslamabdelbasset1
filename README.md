@@ -23,7 +23,7 @@
 - 🎓 &nbsp; Studied Computer Science at Modern Academy For Science And Technology.
 - 🌱 Learning all about **Full stack development**
 - 💬 Ping me about **mySql**, **Laravel**, **Docker**, **RestAPIs**
-- :thinking: My Portfolio: `to know everything about me` , this is [MY PORTFOLIO](https://eslamabdelbasset.netlify.app).
+- :thinking: My Portfolio: `to know everything about me`, this is [MY PORTFOLIO](https://eslamabdelbasset.netlify.app).
 - :nerd_face: Always `learning new things`
   
 ## 🛠 &nbsp;Preferred Programming and Scripting Languages
@@ -114,7 +114,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 ##  🤝🏻 &nbsp; Connect with Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/eslamabdelbasset"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:eslamabdelbasset1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
