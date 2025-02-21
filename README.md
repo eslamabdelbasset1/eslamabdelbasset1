@@ -16,6 +16,7 @@
 <img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=795" width="50">
 <p>
 
+
 ### 💻 &nbsp;About Me 
 - 🌱 &nbsp; Exploring new technologies and developing software solutions to our world's tech problems.
 - ❤  &nbsp; I'm a Back-end Developer | PHP & Laravel. I strive to build immersive and beautiful web applications through carefully crafted code.
@@ -45,6 +46,7 @@
 ![Nestjs](https://img.shields.io/badge/-nestjs%20-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-xpress.js%20-%23404d59.svg?style=flat&logo=express&logoColor=white)
 ![Material-ui](https://img.shields.io/badge/-material%20ui%20-%230081CB.svg?style=flat&logo=material-ui&logoColor=white)
+
   
 ## Preferred Database.
 - 🛢 &nbsp;
