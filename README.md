@@ -17,7 +17,6 @@
 <p>
 
 
-
 ### 💻 &nbsp;About Me 
 - 🌱 &nbsp; Exploring new technologies and developing software solutions to our world's tech problems.
 - ❤  &nbsp; I'm a Back-end Developer | PHP & Laravel. I strive to build immersive and beautiful web applications through carefully crafted code.
@@ -70,6 +69,7 @@
   ![Nginx](https://img.shields.io/badge/-nginx-333333?style=flat&logo=nginx)
   ![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
 
+  
 ## CI
 - &nbsp;
    ![Github-actions](https://img.shields.io/badge/-github%20actions%20-333333.svg?style=flat&logo=github%20actions&logoColor=007ACC)
