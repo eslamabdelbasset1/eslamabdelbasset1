@@ -91,7 +91,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Profile States
-
 <p align="center">
  <a href="https://github.com/eslamabdelbasset1">
     <img width="54%" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
@@ -109,7 +108,6 @@
  <img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=eslamabdelbasset1&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)" />
   </a>
 </p>
-
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 ##  🤝🏻 &nbsp; Connect with Me
