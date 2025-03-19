@@ -50,7 +50,6 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Sqlite](https://img.shields.io/badge/-sqlite-333333?style=flat&logo=sqlite)
-
   
 ## Preferred Tools.
 - ⚙️ &nbsp;
@@ -121,7 +120,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="620">
 </p>
-
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
