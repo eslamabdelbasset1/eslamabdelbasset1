@@ -16,6 +16,8 @@
 <img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=795" width="50">
 <p>
 
+
+
 ### 💻 &nbsp;About Me 
 - 🌱 &nbsp; Exploring new technologies and developing software solutions to our world's tech problems.
 - ❤  &nbsp; I'm a Back-end Developer | PHP & Laravel. I strive to build immersive and beautiful web applications through carefully crafted code.
@@ -65,6 +67,7 @@
   ![Xampp](https://img.shields.io/badge/-Xampp-333333?style=flat&logo=xampp)
   ![Nginx](https://img.shields.io/badge/-nginx-333333?style=flat&logo=nginx)
   ![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
+
 
 ## CI
 - &nbsp;
