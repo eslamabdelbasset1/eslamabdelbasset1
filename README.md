@@ -50,6 +50,7 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Sqlite](https://img.shields.io/badge/-sqlite-333333?style=flat&logo=sqlite)
+
   
 ## Preferred Tools.
 - ⚙️ &nbsp;
@@ -57,6 +58,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![Cpanel](https://img.shields.io/badge/-cpanel-333333?style=flat&logo=cpanel)
+
   
 - 🔧 &nbsp;
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
