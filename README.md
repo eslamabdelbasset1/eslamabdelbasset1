@@ -15,7 +15,6 @@
 </p>
 <img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=795" width="50">
 <p>
-
  
 ### 💻 &nbsp;About Me 
 - 🌱 &nbsp; Exploring new technologies and developing software solutions to our world's tech problems.
