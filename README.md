@@ -70,7 +70,6 @@
 - &nbsp;
    ![Github-actions](https://img.shields.io/badge/-github%20actions%20-333333.svg?style=flat&logo=github%20actions&logoColor=007ACC)
 
-  
 ## Hosting
 - &nbsp;
   ![Heroku](https://img.shields.io/badge/-heroku%20-%23430098.svg?style=flat&logo=heroku&logoColor=white)
