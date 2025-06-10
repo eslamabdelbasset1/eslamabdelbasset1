@@ -74,8 +74,6 @@
 - &nbsp;
   ![Heroku](https://img.shields.io/badge/-heroku%20-%23430098.svg?style=flat&logo=heroku&logoColor=white)
   ![Vercel](https://img.shields.io/badge/-vercel%20-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-
-
   
 ## Design
 - &nbsp;
