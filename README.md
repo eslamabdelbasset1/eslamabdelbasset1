@@ -51,8 +51,6 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Sqlite](https://img.shields.io/badge/-sqlite-333333?style=flat&logo=sqlite)
 
-
-
 ## Preferred Tools.
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
