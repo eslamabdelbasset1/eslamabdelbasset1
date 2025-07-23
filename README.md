@@ -19,14 +19,14 @@
 ### 💻 &nbsp;About Me 
 - 🌱 &nbsp; Exploring new technologies and developing software solutions to our world's tech problems.
 - ❤  &nbsp; I'm a Back-end Developer | PHP & Laravel. I strive to build immersive and beautiful web applications through carefully crafted code.
-- 🎓 &nbsp; Studied Computer Science at Modern Academy For Science And Technology.
+- 🎓 &nbsp; Studied Computer Science at Modern Academy for Science and Technology.
 - 🌱 Learning all about **Full stack development**
 - 💬 Ping me about **mySql**, **Laravel**, **Docker**, **RestAPIs**
 - :thinking: My Portfolio: `to know everything about me`, this is [MY PORTFOLIO](https://eslamabdelbasset.netlify.app).
 - :nerd_face: Always `learning new things`
 
 
-  
+
 ## 🛠 &nbsp;Preferred Programming and Scripting Languages
 - 🌐 &nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
