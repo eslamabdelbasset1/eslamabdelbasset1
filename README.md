@@ -17,13 +17,14 @@
 <p>
 
 ### 💻 &nbsp;About Me 
-- 🌱 &nbsp; Exploring new technologies and developing software solutions to our world's tech problems.
+- 🚀 &nbsp; Expertise: Building scalable, high-performance backend systems with PHP, Laravel, MySQL, Docker, and RESTful APIs. Passionate about architecting robust solutions that drive efficiency and innovation.
+- 🔍 &nbsp; Focus: Optimizing backend infrastructure, improving API performance, and implementing best practices in clean code, security, and DevOps.
+- 🌱 &nbsp; Continuous Growth: Expanding my knowledge in full-stack development to deliver end-to-end solutions while staying updated with emerging technologies.
 - ❤  &nbsp; I'm a Back-end Developer | PHP & Laravel. I strive to build immersive and beautiful web applications through carefully crafted code.
-- 🎓 &nbsp; Studied Computer Science at Modern Academy for Science and Technology.
-- 🌱 Learning all about **Full stack development**
-- 💬 Ping me about **mySql**, **Laravel**, **Docker**, **RestAPIs**
-- :thinking: My Portfolio: `to know everything about me`, this is [MY PORTFOLIO](https://eslamabdelbasset.netlify.app).
-- :nerd_face: Always `learning new things`
+- 🎓 &nbsp; Bachelor’s in Computer Science from Modern Academy for Science and Technology.
+- 💡 Problem Solver: Thrive on tackling complex technical challenges and mentoring junior developers.
+- 📂 Portfolio: Explore my work and contributions here: [MY PORTFOLIO](https://eslamabdelbasset.netlify.app).
+- 📩 Let’s Connect: Open to discussions on backend architecture, system design, and tech innovation.
 
 ## 🛠 &nbsp;Preferred Programming and Scripting Languages
 - 🌐 &nbsp;
