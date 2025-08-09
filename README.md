@@ -4,7 +4,7 @@
     <td>
       <br>
       <p align="center">
-       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Eslam+Abdelbasset;"/>
+       <img src="https://readme-typing-svg.herokuapp.com/?ont=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Eslam+Abdelbasset;"/>
               <img width="500" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=eslamabdelbasset1&data=followers,repositories,stars,commits&theme=viridescent"/>
        <br>
       </p>
@@ -15,15 +15,16 @@
 </p>
 <img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=795" width="50">
 <p>
+
 ### 💻 &nbsp;About Me 
 - 🚀 &nbsp; Expertise: Building scalable, high-performance backend systems with PHP, Laravel, MySQL, Docker, and RESTful APIs. Passionate about architecting robust solutions that drive efficiency and innovation.
 - 🔍 &nbsp; Focus: Optimizing backend infrastructure, improving API performance, and implementing best practices in clean code, security, and DevOps.
 - 🌱 &nbsp; Continuous Growth: Expanding my knowledge in full-stack development to deliver end-to-end solutions while staying updated with emerging technologies.
 - ❤ &nbsp; I'm a Back-end Developer | PHP & Laravel. I strive to build immersive and beautiful web applications through carefully crafted code.
-- 🎓 &nbsp; Bachelor's in Computer Science from Modern Academy for Science and Technology.
+- 🎓 &nbsp; Bachelor’s in Computer Science from Modern Academy for Science and Technology.
 - 💡 Problem Solver: Thrive on tackling complex technical challenges and mentoring junior developers.
 - 📂 Portfolio: Explore my work and contributions here: [MY PORTFOLIO](https://eslamabdelbasset.netlify.app).
-- 📩 Let's Connect: Open to discussions on backend architecture, system design, and tech innovation.
+- 📩 Let’s Connect: Open to discussions on backend architecture, system design, and tech innovation.
 
 ## 🛠 &nbsp;Preferred Programming and Scripting Languages
 - 🌐 &nbsp;
@@ -45,6 +46,8 @@
 ![Nestjs](https://img.shields.io/badge/-nestjs%20-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-xpress.js%20-%23404d59.svg?style=flat&logo=express&logoColor=white)
 ![Material-ui](https://img.shields.io/badge/-material%20ui%20-%230081CB.svg?style=flat&logo=material-ui&logoColor=white)
+
+
   
 ## Preferred Database.
 - 🛢 &nbsp;
@@ -57,6 +60,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![Cpanel](https://img.shields.io/badge/-cpanel-333333?style=flat&logo=cpanel)
+
 - 🔧 &nbsp;
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PhpStorm](https://img.shields.io/badge/-PhpStorm-333333?style=flat&logo=PhpStorm&logoColor=007ACC)
@@ -85,8 +89,8 @@
 </a>
   <a href="https://github.com/eslamabdelbasset1/"><img src="https://img.shields.io/github/last-commit/Parply/Parply?style=flat-square?color=red&label=Last%20Updated%20"/></a>
  </p>
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Profile States
 <p align="center">
  <a href="https://github.com/eslamabdelbasset1">
@@ -114,6 +118,7 @@
   <a href="https://www.facebook.com/eslam3bdelbasset"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
   <a href="https://api.whatsapp.com/send/?phone=201060838210"><img src="https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="620">
 </p>
