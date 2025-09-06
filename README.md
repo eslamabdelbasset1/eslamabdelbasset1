@@ -46,8 +46,6 @@
 ![Nestjs](https://img.shields.io/badge/-nestjs%20-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-xpress.js%20-%23404d59.svg?style=flat&logo=express&logoColor=white)
 ![Material-ui](https://img.shields.io/badge/-material%20ui%20-%230081CB.svg?style=flat&logo=material-ui&logoColor=white)
-
-
   
 ## Preferred Database.
 - 🛢 &nbsp;
