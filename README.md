@@ -16,6 +16,7 @@
 <img align="right" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=9&height=795" width="50">
 <p>
 
+
 ### 💻 &nbsp;About Me 
 - 🚀 &nbsp; Expertise: Building scalable, high-performance backend systems with PHP, Laravel, MySQL, Docker, and RESTful APIs. Passionate about architecting robust solutions that drive efficiency and innovation.
 - 🔍 &nbsp; Focus: Optimizing backend infrastructure, improving API performance, and implementing best practices in clean code, security, and DevOps.
