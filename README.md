@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://eslamabdelbasset.netlify.app">
+<a href="https://eslamabdelbasset.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=65&lines=Hi+There!+I'm+Eslam+Abdelbasset;Senior+Backend+Engineer;PHP+%26+Laravel+Architect;Building+Scalable+Cloud+Systems;Clean+Architecture+%26+DDD+Specialist" alt="Eslam Abdelbasset - Typing SVG" />
 </a>
 
@@ -18,7 +18,7 @@
 
 <!-- SOCIAL & QUICK ACTION BADGES -->
 <p align="center">
-  <a href="https://eslamabdelbasset.netlify.app" target="_blank">
+  <a href="https://eslamabdelbasset.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Live_Site-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
@@ -63,7 +63,7 @@ Status             = Open for High-Impact Technical Roles, Enterprise Architectu
 - ⚡ **Performance & Optimization**: Advanced caching strategies, database query tuning, table indexing, connection pooling, and background worker queues.
 - 🛡️ **Software Craftsmanship**: Committed to clean code, comprehensive testing (PHPUnit / Pest), and resilient design patterns.
 - 🌐 **Full-Stack Competency**: Building seamless end-to-end applications integrating modern frontend ecosystems (**TypeScript, Angular, Tailwind CSS, Bootstrap**).
-- 📂 **Live Portfolio**: Discover detailed projects, case studies, and live implementations at **[eslamabdelbasset.netlify.app](https://eslamabdelbasset.netlify.app)**.
+- 📂 **Live Portfolio**: Discover detailed projects, case studies, and live implementations at **[eslamabdelbasset.vercel.app](https://eslamabdelbasset.vercel.app)**.
 
 <br/>
 
@@ -192,7 +192,7 @@ Status             = Open for High-Impact Technical Roles, Enterprise Architectu
 </p>
 
 <p align="center">
-  <a href="https://eslamabdelbasset.netlify.app" target="_blank">
+  <a href="https://eslamabdelbasset.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
