@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A0D14,50:026BFF,100:38BDF8&amp;height=160&amp;section=header" width="100%" alt="Royal blue gradient header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A0D14,50:026BFF,100:38BDF8&amp;height=100&amp;section=header" width="100%" alt="Royal blue gradient header" />
 </p>
 
 <div align="center">
@@ -9,7 +9,7 @@
 **Senior Backend Developer & Full Stack Engineer**
 
 <p align="center">
-  <a href="https://eslamabdelbasset.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&amp;size=24&amp;duration=2800&amp;pause=1100&amp;color=60A5FA&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=58&amp;lines=Engineering+scalable+backends;Architecting+multi-tenant+SaaS;Building+enterprise+ERP+systems;Turning+complexity+into+clarity" width="100%" alt="Engineering scalable backends · Architecting multi-tenant SaaS · Building enterprise ERP systems" /></a>
+  <a href="https://eslamabdelbasset.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&amp;size=21&amp;duration=2800&amp;pause=1100&amp;color=60A5FA&amp;center=true&amp;vCenter=true&amp;width=460&amp;height=58&amp;lines=Engineering+scalable+backends;Architecting+multi-tenant+SaaS;Building+enterprise+ERP+systems;Turning+complexity+into+clarity" alt="Engineering scalable backends · Architecting multi-tenant SaaS · Building enterprise ERP systems" /></a>
 </p>
 
 **Enterprise systems · Secure APIs · Scalable SaaS**
@@ -35,13 +35,15 @@
 <a name="about"></a>
 ## 👋 I build systems businesses depend on
 
-I'm **Eslam Abdelbasset**, a **Senior Backend Developer & Full Stack Engineer** focused on distributed enterprise systems, high-throughput APIs, and multi-tenant SaaS and ERP platforms.
+I’m **Eslam Abdelbasset**. I design and build the backend systems behind enterprise operations, multi-tenant SaaS, and high-throughput APIs.
 
-My core is **PHP and Laravel**, supported by **React, Next.js, Vue.js**, relational databases, Redis, and cloud infrastructure. I work across architecture, implementation, performance tuning, integrations, and production delivery—from tenant isolation and secure authentication to real-time events and automated deployments.
+My primary stack is **PHP / Laravel**, **SQL / Redis**, and **React / Next.js / Vue.js**. I take systems from architecture to production, with a focus on secure boundaries, fast queries, dependable integrations, and maintainable code.
 
 **My approach:** understand the business workflow, design clear boundaries, measure bottlenecks, and ship maintainable software.
 
 [Explore my portfolio](https://eslamabdelbasset.vercel.app) · [Read my articles](https://eslamabdelbasset.vercel.app/blog) · [View my CV](https://eslamabdelbasset.vercel.app/cv) · [Download my résumé](https://eslamabdelbasset.vercel.app/assets/Eslam_Abdelbasset_Resume.pdf)
+
+---
 
 <a name="expertise"></a>
 ## 🧭 What I bring to a team
@@ -57,6 +59,8 @@ Secure REST / GraphQL APIs, payment gateways, Laravel Echo, WebSockets, and even
 
 **🎨 End-to-end delivery**  
 React / Next.js / Vue.js interfaces, financial workflows, Docker, Linux, Nginx, and automated deployment.
+
+---
 
 <a name="technology"></a>
 ## 🛠️ Technology & toolbox
@@ -126,6 +130,8 @@ Docker · AWS · Linux · Ubuntu · Nginx · Apache · Bash · Git · GitLab
 
 [Explore my complete skills](https://eslamabdelbasset.vercel.app/skills)
 
+---
+
 <a name="impact"></a>
 ## 📈 Engineering impact
 
@@ -146,6 +152,8 @@ Database and administrative workflow improvements at **Alshamel Holding**.
 </details>
 
 <sub>Individual results reported in my portfolio across separate engagements.</sub>
+
+---
 
 <a name="career"></a>
 ## 💼 Roles & professional journey
@@ -207,6 +215,8 @@ International client platforms, responsive interfaces, and Linux deployment supp
 
 <sub>Consulting engagements overlap with full-time roles.</sub>
 
+---
+
 <a name="systems"></a>
 ## 🚀 Systems I build
 
@@ -221,28 +231,31 @@ I turn complex business requirements into secure, scalable platforms—from the 
 - 📰 **Publishing & media** — Content workflows, digital publishing, video delivery, and interactive web experiences.
 - 🔌 **APIs & real-time services** — Secure integrations, event broadcasting, notifications, caching, and performance optimization.
 
+---
+
 <a name="github"></a>
-## 📊 Live GitHub activity
+## 📊 Open source & GitHub
 
 <p align="center">
-  <a href="https://github.com/eslamabdelbasset1?tab=followers"><img src="https://img.shields.io/github/followers/eslamabdelbasset1?style=for-the-badge&amp;label=Followers&amp;color=026BFF&amp;labelColor=121826" alt="GitHub follower count" /></a>
-  <a href="https://github.com/eslamabdelbasset1?tab=repositories"><img src="https://img.shields.io/github/stars/eslamabdelbasset1?style=for-the-badge&amp;label=Stars&amp;color=026BFF&amp;labelColor=121826" alt="GitHub star count" /></a>
+  <a href="https://github.com/eslamabdelbasset1?tab=followers"><img src="https://img.shields.io/github/followers/eslamabdelbasset1?style=flat-square&amp;label=Followers&amp;color=026BFF&amp;labelColor=121826" alt="GitHub followers" /></a>
+  <a href="https://github.com/eslamabdelbasset1?tab=repositories"><img src="https://img.shields.io/github/stars/eslamabdelbasset1?style=flat-square&amp;label=Stars&amp;color=026BFF&amp;labelColor=121826" alt="GitHub stars" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/eslamabdelbasset1"><img src="https://github-readme-activity-graph.vercel.app/graph?username=eslamabdelbasset1&amp;bg_color=0A0D14&amp;color=94A3B8&amp;line=026BFF&amp;point=60A5FA&amp;area=true&amp;area_color=026BFF&amp;hide_border=true&amp;custom_title=Contribution%20activity%20%C2%B7%20last%2031%20days" width="100%" alt="GitHub contribution activity over the last 31 days" /></a>
+  <a href="https://github.com/eslamabdelbasset1"><img src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&amp;bg_color=0A0D14&amp;title_color=60A5FA&amp;text_color=94A3B8&amp;icon_color=026BFF&amp;border_color=26324A&amp;border_radius=12&amp;card_width=440&amp;show_icons=true&amp;hide_rank=true&amp;include_all_commits=true&amp;custom_title=Public+GitHub+contributions" alt="Public GitHub contributions" /></a>
 </p>
-
-[Explore my repositories](https://github.com/eslamabdelbasset1?tab=repositories) · [View my contribution history](https://github.com/eslamabdelbasset1)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&amp;show_icons=true&amp;bg_color=0A0D14&amp;title_color=60A5FA&amp;text_color=94A3B8&amp;icon_color=026BFF&amp;border_color=26324A&amp;border_radius=16" width="100%" alt="GitHub public repository statistics for eslamabdelbasset1" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&amp;layout=compact&amp;langs_count=8&amp;bg_color=0A0D14&amp;title_color=60A5FA&amp;text_color=94A3B8&amp;border_color=26324A&amp;border_radius=16" width="100%" alt="Language distribution across public GitHub repositories" />
+  <a href="https://github.com/eslamabdelbasset1?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&amp;bg_color=0A0D14&amp;title_color=60A5FA&amp;text_color=94A3B8&amp;icon_color=026BFF&amp;border_color=26324A&amp;border_radius=12&amp;card_width=440&amp;layout=normal&amp;langs_count=6&amp;custom_title=Repository+languages" alt="Public repository language distribution" /></a>
 </p>
 
-<sub>Activity updates through cached public GitHub data. Private client work is not fully represented; language distribution is not a skill rating.</sub>
+<p align="center">
+  <a href="https://github.com/eslamabdelbasset1?tab=repositories"><b>Explore repositories →</b></a> · <a href="https://github.com/eslamabdelbasset1"><b>Contribution history →</b></a>
+</p>
+
+<sub>Cards use cached public GitHub data and depend on an external service. Client work in private repositories is not fully represented. Repository languages describe code volume, not proficiency.</sub>
+
+---
 
 <a name="connect"></a>
 ## 🤝 Let's build your next platform
@@ -258,5 +271,5 @@ Working on an enterprise ERP, multi-tenant SaaS, payment integration, or a backe
 <p align="center"><sub>Built with purpose, shipped with care.</sub></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A0D14,50:026BFF,100:38BDF8&amp;height=100&amp;section=footer" width="100%" alt="Royal blue gradient footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A0D14,50:026BFF,100:38BDF8&amp;height=60&amp;section=footer" width="100%" alt="Royal blue gradient footer" />
 </p>
