@@ -1,22 +1,22 @@
 <div align="center">
 
 <!-- ======================================================= -->
-<!--                   HERO BANNER & GREETING                -->
+<!--                   HERO SECTION & TYPING BANNER          -->
 <!-- ======================================================= -->
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" height="4px" />
 
 <br/>
-<br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=65&lines=Hi+There!+I'm+Eslam+Abdelbasset+👋;Senior+Backend+Engineer+🚀;PHP+%26+Laravel+Architect+⚡;Building+Scalable+Cloud+Systems+🛡️;Clean+Architecture+%26+DDD+Enthusiast+🧠" alt="Typing SVG Banner" />
+<a href="https://eslamabdelbasset.netlify.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=65&lines=Hi+There!+I'm+Eslam+Abdelbasset;Senior+Backend+Engineer;PHP+%26+Laravel+Architect;Building+Scalable+Cloud+Systems;Clean+Architecture+%26+DDD+Specialist" alt="Eslam Abdelbasset - Typing SVG" />
 </a>
 
 <p align="center">
-  <b>Senior Backend Developer | Software Architect | Full-Stack Explorer</b>
+  <b>🚀 Senior Backend Developer | ⚡ Software Architect | 🌐 Full-Stack Engineer</b>
 </p>
 
+<!-- SOCIAL & QUICK ACTION BADGES -->
 <p align="center">
   <a href="https://eslamabdelbasset.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Live_Site-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
@@ -28,6 +28,10 @@
   &nbsp;
   <a href="https://api.whatsapp.com/send/?phone=201060838210" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Chat_Directly-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  &nbsp;
+  <a href="mailto:eslamabdelbasset1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=eslamabdelbasset1&label=Profile_Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
@@ -47,19 +51,34 @@
 
 ```ini
 [ENGINEERING_PROFILE]
-Role         = Senior Backend Engineer & System Architect
-Core_Specialization = PHP 8+, Laravel Framework, Distributed Systems, High-Concurrency APIs
-Architecture = Clean Architecture, Domain-Driven Design (DDD), SOLID, Microservices, CQRS
-Education    = B.Sc. in Computer Science (Modern Academy for Science and Technology)
-Location     = Cairo, Egypt 🇪🇬
-Status       = Available for Enterprise Projects, Consultations & Full-Time Roles
+Role               = Senior Backend Engineer & System Architect
+Core_Technologies  = PHP 8+, Laravel Framework, Node.js / NestJS, MySQL, PostgreSQL, Docker, Redis
+Architectural_DNA = Clean Architecture, Domain-Driven Design (DDD), SOLID, Microservices, CQRS, TDD
+Education          = Bachelor's in Computer Science — Modern Academy for Science and Technology
+Location           = Cairo, Egypt 🇪🇬
+Status             = Open for High-Impact Technical Roles, Enterprise Architecture & Consultations
 ```
 
-- 🚀 **Backend Engineering & Distributed APIs**: Specializing in architecting secure, scalable backend services using **PHP, Laravel, Node.js/NestJS, Docker, Redis, and MySQL/PostgreSQL**.
-- ⚡ **Performance & Scalability**: Deep experience in database query optimization, indexing strategies, caching mechanisms, and asynchronous background worker queues.
-- 🛡️ **Software Craftsmanship**: Committed to writing clean, maintainable, self-documenting code with comprehensive unit/feature testing (PHPUnit/Pest).
-- 🌐 **Full-Stack Competency**: Delivering end-to-end web products integrating modern frontend frameworks (**TypeScript, Angular, Tailwind CSS, Bootstrap**).
-- 📂 **Interactive Portfolio**: Discover my live apps and case studies at **[eslamabdelbasset.netlify.app](https://eslamabdelbasset.netlify.app)**.
+- 🚀 **Backend Mastery**: Architecting enterprise-grade, high-throughput backend services using **PHP, Laravel, MySQL, PostgreSQL, Redis, and RESTful/GraphQL APIs**.
+- ⚡ **Performance & Optimization**: Advanced caching strategies, database query tuning, table indexing, connection pooling, and background worker queues.
+- 🛡️ **Software Craftsmanship**: Committed to clean code, comprehensive testing (PHPUnit / Pest), and resilient design patterns.
+- 🌐 **Full-Stack Competency**: Building seamless end-to-end applications integrating modern frontend ecosystems (**TypeScript, Angular, Tailwind CSS, Bootstrap**).
+- 📂 **Live Portfolio**: Discover detailed projects, case studies, and live implementations at **[eslamabdelbasset.netlify.app](https://eslamabdelbasset.netlify.app)**.
+
+<br/>
+
+---
+
+<!-- ======================================================= -->
+<!--             CURRENT WORKFLOW & FOCUS                    -->
+<!-- ======================================================= -->
+
+## 🔭 &nbsp;Current Focus & Engineering Workflow
+
+- 🔭 **Currently Building:** High-concurrency enterprise microservices and scalable SaaS API platforms.
+- 🌱 **Deepening Knowledge:** Event-Driven Architecture, Kafka/RabbitMQ message brokers, and advanced Cloud Native deployments.
+- 💡 **Open For:** System design consultancies, scalable backend architecture, and technical team mentorship.
+- 💬 **Ask Me About:** PHP, Laravel internals, SQL optimization, Clean Architecture, and REST API design standards.
 
 <br/>
 
@@ -69,9 +88,9 @@ Status       = Available for Enterprise Projects, Consultations & Full-Time Role
 <!--                   TECH STACK MATRIX                     -->
 <!-- ======================================================= -->
 
-## 🛠️ &nbsp;Skills & Technology Matrix
+## 🛠️ &nbsp;Tech Stack & Engineering Toolbox
 
-### ⚡ Backend & Server-Side
+### ⚡ Backend & Server-Side Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/PHP_8+-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -82,7 +101,7 @@ Status       = Available for Enterprise Projects, Consultations & Full-Time Role
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </p>
 
-### 🌐 Programming Languages
+### 🌐 Programming & Scripting Languages
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -94,7 +113,7 @@ Status       = Available for Enterprise Projects, Consultations & Full-Time Role
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
 </p>
 
-### 🛢️ Databases & Caching
+### 🛢️ Databases, Caching & Queues
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -105,6 +124,7 @@ Status       = Available for Enterprise Projects, Consultations & Full-Time Role
 ### 🎨 Frontend & UI Systems
 <p align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
@@ -121,13 +141,15 @@ Status       = Available for Enterprise Projects, Consultations & Full-Time Role
   <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
 </p>
 
-### 🔧 Tools & Workflow
+### 🔧 Testing, Tools & Workflow
 <p align="left">
+  <img src="https://img.shields.io/badge/PHPUnit-3C9CD7?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
   <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD" />
 </p>
 
@@ -150,8 +172,8 @@ Status       = Available for Enterprise Projects, Consultations & Full-Time Role
 
 <p align="center">
   <a href="https://github.com/eslamabdelbasset1">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&layout=donut&theme=tokyonight&hide_border=false&border_radius=10" alt="Most Used Languages" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&langs_count=8" alt="Top Languages Compact" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&layout=donut&theme=tokyonight&hide_border=false&border_radius=10" alt="Most Used Languages Donut" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&langs_count=8" alt="Top Languages Breakdown" />
   </a>
 </p>
 
@@ -166,7 +188,7 @@ Status       = Available for Enterprise Projects, Consultations & Full-Time Role
 ## 🤝 &nbsp;Let's Connect & Collaborate
 
 <p align="center">
-  <b>I'm always open to discussing backend architecture, technical leadership, or freelance opportunities.</b>
+  <b>Have a project in mind or interested in backend architecture discussions? Feel free to reach out!</b>
 </p>
 
 <p align="center">
@@ -195,5 +217,5 @@ Status       = Available for Enterprise Projects, Consultations & Full-Time Role
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%" height="4px" />
-  <p align="center"><i>Crafted with precision by Eslam Abdelbasset ⚡</i></p>
+  <p align="center"><i>⚡ Crafted with precision for high-performance engineering ⚡</i></p>
 </div>
