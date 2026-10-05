@@ -1,7 +1,18 @@
-<!-- Upload this README and assets/readme/ together to eslamabdelbasset1/eslamabdelbasset1. -->
-<p align="center">
-  <a href="https://eslamabdelbasset.vercel.app"><img src="assets/readme/hero.svg" width="100%" alt="Eslam Abdelbasset — Senior Backend Developer & Full Stack Engineer. 5+ years, 20+ projects, 10+ companies." /></a>
-</p>
+<div align="center">
+
+# Eslam Abdelbasset
+
+### Senior Backend Developer & Full Stack Engineer
+
+**Enterprise systems · Secure APIs · Scalable SaaS**
+
+PHP / Laravel · React / Next.js / Vue.js · Cloud infrastructure
+
+![Experience](https://img.shields.io/badge/Experience-5%2B_years-026BFF?style=for-the-badge&labelColor=121826)
+![Projects](https://img.shields.io/badge/Projects-20%2B-026BFF?style=for-the-badge&labelColor=121826)
+![Companies](https://img.shields.io/badge/Companies-10%2B-026BFF?style=for-the-badge&labelColor=121826)
+
+</div>
 
 <p align="center">
   <a href="https://eslamabdelbasset.vercel.app"><img src="https://img.shields.io/badge/Portfolio-026BFF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Visit my portfolio" /></a>
@@ -43,19 +54,19 @@ My core is **PHP and Laravel**, supported by **React, Next.js, Vue.js**, relatio
 <a name="technology"></a>
 ## 🛠️ Technology & toolbox
 
-Technology icons below are bundled from my portfolio. My primary production focus is **Laravel, PHP, SQL, Redis, and modern JavaScript interfaces**.
+My primary production focus is **Laravel, PHP, SQL, Redis, and modern JavaScript interfaces**.
 
 ### Backend & languages
 
 <p>
-  <img src="assets/readme/tech/php.svg" width="40" height="40" alt="PHP" title="PHP" />&nbsp;
-  <img src="assets/readme/tech/laravel.svg" width="40" height="40" alt="Laravel" title="Laravel" />&nbsp;
-  <img src="assets/readme/tech/symfony.svg" width="40" height="40" alt="Symfony" title="Symfony" />&nbsp;
-  <img src="assets/readme/tech/nodejs.svg" width="40" height="40" alt="Node.js" title="Node.js" />&nbsp;
-  <img src="assets/readme/tech/python.svg" width="40" height="40" alt="Python" title="Python" />&nbsp;
-  <img src="assets/readme/tech/javascript.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />&nbsp;
-  <img src="assets/readme/tech/typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />&nbsp;
-  <img src="assets/readme/tech/cplusplus.svg" width="40" height="40" alt="C++" title="C++" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" title="Laravel" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/symfony/symfony-original.svg" width="40" height="40" alt="Symfony" title="Symfony" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++" />&nbsp;
 </p>
 
 PHP · Laravel · Symfony · Node.js · Python · JavaScript · TypeScript · C++
@@ -63,15 +74,15 @@ PHP · Laravel · Symfony · Node.js · Python · JavaScript · TypeScript · C+
 ### Frontend & interface systems
 
 <p>
-  <img src="assets/readme/tech/react.svg" width="40" height="40" alt="React" title="React" />&nbsp;
-  <img src="assets/readme/tech/nextjs.svg" width="40" height="40" alt="Next.js" title="Next.js" />&nbsp;
-  <img src="assets/readme/tech/vuejs.svg" width="40" height="40" alt="Vue.js" title="Vue.js" />&nbsp;
-  <img src="assets/readme/tech/nuxtjs.svg" width="40" height="40" alt="Nuxt.js" title="Nuxt.js" />&nbsp;
-  <img src="assets/readme/tech/angular.svg" width="40" height="40" alt="Angular" title="Angular" />&nbsp;
-  <img src="assets/readme/tech/livewire.svg" width="40" height="40" alt="Livewire" title="Livewire" />&nbsp;
-  <img src="assets/readme/tech/tailwindcss.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
-  <img src="assets/readme/tech/bootstrap.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap" />&nbsp;
-  <img src="assets/readme/tech/sass.svg" width="40" height="40" alt="Sass" title="Sass" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="40" height="40" alt="React" title="React" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" title="Next.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js" title="Vue.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nuxtjs/nuxtjs-original.svg" width="40" height="40" alt="Nuxt.js" title="Nuxt.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/angular/angular-original.svg" width="40" height="40" alt="Angular" title="Angular" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/livewire/livewire-original.svg" width="40" height="40" alt="Livewire" title="Livewire" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/sass/sass-original.svg" width="40" height="40" alt="Sass" title="Sass" />&nbsp;
 </p>
 
 React · Next.js · Vue.js · Nuxt.js · Angular · Livewire · Tailwind CSS · Bootstrap · Sass
@@ -79,11 +90,11 @@ React · Next.js · Vue.js · Nuxt.js · Angular · Livewire · Tailwind CSS · 
 ### Data & caching
 
 <p>
-  <img src="assets/readme/tech/mysql.svg" width="40" height="40" alt="MySQL" title="MySQL" />&nbsp;
-  <img src="assets/readme/tech/postgresql.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
-  <img src="assets/readme/tech/redis.svg" width="40" height="40" alt="Redis" title="Redis" />&nbsp;
-  <img src="assets/readme/tech/mongodb.svg" width="40" height="40" alt="MongoDB" title="MongoDB" />&nbsp;
-  <img src="assets/readme/tech/sqlite.svg" width="40" height="40" alt="SQLite" title="SQLite" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" title="MySQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" title="Redis" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" title="SQLite" />&nbsp;
 </p>
 
 MySQL · PostgreSQL · Redis · MongoDB · SQLite
@@ -91,15 +102,15 @@ MySQL · PostgreSQL · Redis · MongoDB · SQLite
 ### Cloud, infrastructure & workflow
 
 <p>
-  <img src="assets/readme/tech/docker.svg" width="40" height="40" alt="Docker" title="Docker" />&nbsp;
-  <img src="assets/readme/tech/aws.svg" width="40" height="40" alt="AWS" title="AWS" />&nbsp;
-  <img src="assets/readme/tech/linux.svg" width="40" height="40" alt="Linux" title="Linux" />&nbsp;
-  <img src="assets/readme/tech/ubuntu.svg" width="40" height="40" alt="Ubuntu" title="Ubuntu" />&nbsp;
-  <img src="assets/readme/tech/nginx.svg" width="40" height="40" alt="Nginx" title="Nginx" />&nbsp;
-  <img src="assets/readme/tech/apache.svg" width="40" height="40" alt="Apache" title="Apache" />&nbsp;
-  <img src="assets/readme/tech/bash.svg" width="40" height="40" alt="Bash" title="Bash" />&nbsp;
-  <img src="assets/readme/tech/git.svg" width="40" height="40" alt="Git" title="Git" />&nbsp;
-  <img src="assets/readme/tech/gitlab.svg" width="40" height="40" alt="GitLab" title="GitLab" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" title="AWS" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/ubuntu/ubuntu-original.svg" width="40" height="40" alt="Ubuntu" title="Ubuntu" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx" title="Nginx" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/apache/apache-original.svg" width="40" height="40" alt="Apache" title="Apache" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" title="Bash" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab" title="GitLab" />&nbsp;
 </p>
 
 Docker · AWS · Linux · Ubuntu · Nginx · Apache · Bash · Git · GitLab
@@ -111,14 +122,19 @@ Docker · AWS · Linux · Ubuntu · Nginx · Apache · Bash · Git · GitLab
 <a name="impact"></a>
 ## 📈 Engineering impact
 
-<img src="assets/readme/impact.svg" width="100%" alt="Portfolio-reported outcomes: 50% less database query overhead at Loc Camp; 40% better database performance at Const Tech; 40% less server load and 60% streamlined administrative operations at Alshamel Holding; 35% faster data retrieval at Ibtikarat; 25% higher sales conversions at Sneakers Dubai." />
+| Engagement | Outcome | Improvement |
+| :--- | :--- | :---: |
+| Loc Camp | Reduced database query overhead | **50%** |
+| Const Tech | Improved database performance | **40%** |
+| Alshamel Holding | Reduced server load | **40%** |
+| Alshamel Holding | Streamlined administrative operations | **60%** |
+| Ibtikarat | Improved data retrieval speed | **35%** |
+| Sneakers Dubai | Increased sales conversions | **25%** |
 
 These are individual outcomes documented in my portfolio, across different engagements. They represent different measures and are not a combined benchmark.
 
 <a name="career"></a>
 ## 💼 Roles & professional journey
-
-<img src="assets/readme/career.svg" width="100%" alt="Career progression from Junior Full Stack Developer at Impact Studios in 2020 to Senior Backend Developer at Loc Camp from October 2025, including architecture and consulting engagements." />
 
 | Period | Company / position | Focus |
 | :--- | :--- | :--- |
@@ -183,4 +199,4 @@ Working on an enterprise ERP, multi-tenant SaaS, payment integration, or a backe
 | 💬 WhatsApp | [+20 155 200 0355](https://wa.me/201552000355) |
 | 📄 Résumé | [View CV](https://eslamabdelbasset.vercel.app/cv) · [Download PDF](https://eslamabdelbasset.vercel.app/assets/Eslam_Abdelbasset_Resume.pdf) |
 
-<p align="center"><sub>Designed with my portfolio's obsidian and royal blue palette · Built with purpose, shipped with care.</sub></p>
+<p align="center"><sub>Built with purpose, shipped with care.</sub></p>
