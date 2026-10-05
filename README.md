@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://api.whatsapp.com/send/?phone=201060838210" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=201552000355" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Chat_Directly-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   &nbsp;
@@ -204,7 +204,7 @@ Status             = Open for High-Impact Technical Roles, Enterprise Architectu
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://api.whatsapp.com/send/?phone=201060838210" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=201552000355" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   &nbsp;
