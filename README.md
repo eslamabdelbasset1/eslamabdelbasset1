@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://eslamabdelbasset.vercel.app">
+<a href="https://eslamabdelbasset.vercel.app" target="_blank" rel="noopener noreferrer">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=65&lines=Hi+There!+I'm+Eslam+Abdelbasset;Senior+Backend+Engineer;PHP+%26+Laravel+Architect;Building+Scalable+Cloud+Systems;Clean+Architecture+%26+DDD+Specialist" alt="Eslam Abdelbasset - Typing SVG" />
 </a>
 
@@ -18,19 +18,19 @@
 
 <!-- SOCIAL & QUICK ACTION BADGES -->
 <p align="center">
-  <a href="https://eslamabdelbasset.vercel.app" target="_blank">
+  <a href="https://eslamabdelbasset.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Live_Site-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/eslamabdelbasset" target="_blank">
+  <a href="https://www.linkedin.com/in/eslamabdelbasset" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://api.whatsapp.com/send/?phone=201552000355" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=201552000355" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-Chat_Directly-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   &nbsp;
-  <a href="mailto:eslamabdelbasset1@gmail.com">
+  <a href="mailto:eslamabdelbasset1@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
@@ -63,7 +63,7 @@ Status             = Open for High-Impact Technical Roles, Enterprise Architectu
 - ⚡ **Performance & Optimization**: Advanced caching strategies, database query tuning, table indexing, connection pooling, and background worker queues.
 - 🛡️ **Software Craftsmanship**: Committed to clean code, comprehensive testing (PHPUnit / Pest), and resilient design patterns.
 - 🌐 **Full-Stack Competency**: Building seamless end-to-end applications integrating modern frontend ecosystems (**TypeScript, Angular, Tailwind CSS, Bootstrap**).
-- 📂 **Live Portfolio**: Discover detailed projects, case studies, and live implementations at **[eslamabdelbasset.vercel.app](https://eslamabdelbasset.vercel.app)**.
+- 📂 **Live Portfolio**: Discover detailed projects, case studies, and live implementations at <a href="https://eslamabdelbasset.vercel.app" target="_blank" rel="noopener noreferrer"><b>eslamabdelbasset.vercel.app</b></a>.
 
 <br/>
 
@@ -164,14 +164,14 @@ Status             = Open for High-Impact Technical Roles, Enterprise Architectu
 ## 📊 &nbsp;GitHub Analytics & Live Statistics
 
 <p align="center">
-  <a href="https://github.com/eslamabdelbasset1">
+  <a href="https://github.com/eslamabdelbasset1" target="_blank" rel="noopener noreferrer">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eslamabdelbasset1&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&border_radius=10" alt="Eslam's GitHub Stats" />
     <img width="49%" src="https://streak-stats.demolab.com/?user=eslamabdelbasset1&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak Tracker" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/eslamabdelbasset1">
+  <a href="https://github.com/eslamabdelbasset1" target="_blank" rel="noopener noreferrer">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&layout=donut&theme=tokyonight&hide_border=false&border_radius=10" alt="Most Used Languages Donut" />
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&langs_count=8" alt="Top Languages Breakdown" />
   </a>
@@ -192,23 +192,23 @@ Status             = Open for High-Impact Technical Roles, Enterprise Architectu
 </p>
 
 <p align="center">
-  <a href="https://eslamabdelbasset.vercel.app" target="_blank">
+  <a href="https://eslamabdelbasset.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/eslamabdelbasset" target="_blank">
+  <a href="https://www.linkedin.com/in/eslamabdelbasset" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:eslamabdelbasset1@gmail.com">
+  <a href="mailto:eslamabdelbasset1@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://api.whatsapp.com/send/?phone=201552000355" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=201552000355" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   &nbsp;
-  <a href="https://www.facebook.com/eslam3bdelbasset" target="_blank">
+  <a href="https://www.facebook.com/eslam3bdelbasset" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
